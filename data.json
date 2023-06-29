@@ -1,0 +1,160 @@
+{
+  "fagles": {
+    "translator": "Robert Fagles",
+    "year": 1990,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0140275363/",
+      "goodreads": "https://www.goodreads.com/book/show/1371.The_Iliad"
+    },
+    "description": "Robert Fagles' translation of the Iliad is a renowned and poetic rendition that brings the epic tale of the Trojan War to life with a captivating and accessible style.",
+    "quotes": {
+      "Book 1 - Intro": "Rage—Goddess, sing the rage of Peleus' son Achilles,\nmurderous, doomed, that cost the Achaeans countless losses,\nhurling down to the House of Death so many sturdy souls,\ngreat fighters' souls, but made their bodies carrion,\n feasts for the dogs and birds,\nand the will of Zeus was moving toward its end.",
+      "Book 5 - Athena encourages Diomedes": "But the goddess roused him on, her eyes blazing:\n\"True son of Tydeus, Diomedes, joy of my heart!\nForget the orders—nothing to fear, my friend, neither Ares nor any other god. You too,\nI'll urge you on with so much winning force. Up now! Lash your racing horses at Ares first,\nstrike him at close range, no shrinking away here\nbefore that headlong Ares! Just look at the manic,\nborn for disaster, double-dealing, lying two-face god—\njust now he promised me and Hera, the War-god swore\nhe'd fight the Trojans, stand behind the Argives.\nBut now, look, he's leading the Trojan rampage,\nhis pledges thrown to the winds!",
+      "3": "Placeholder"
+    }
+  },
+  "lattimore": {
+    "translator": "Richmond Lattimore",
+    "year": 1951,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0226469409/",
+      "goodreads": "https://www.goodreads.com/book/show/1371.The_Iliad"
+    },
+    "description": "Richmond Lattimore's translation of the Iliad, published in 1951, offers a faithful and scholarly rendition of Homer's epic masterpiece.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, goddess, the anger of Peleus' son Achilleus\nand its devastation, which puts pains thousandfold upon the Achaians,\nhurled in their multitudes to the house of Hades strong souls\nof heroes, but gave their bodies to be the delicate feasting\nof dogs, of all birds, and the will of Zeus was accomplished\nsince that time when first there stood in division of conflict\nAtreus' son the lord of men and brilliant Achilleus.",
+      "Book 5 - Athena encourages Diomedes": "",
+      "3": "Placeholder"
+    }
+  },
+  "lombardo": {
+    "translator": "Stanley Lombardo",
+    "year": 1997,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0872203522/",
+      "goodreads": "https://www.goodreads.com/book/show/11570.The_Iliad"
+    },
+    "description": "Stanley Lombardo's translation of the Iliad, released in 1997, presents a bold and dynamic retelling that captures the raw power and intensity of the ancient Greek text.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, Goddess, Achilles' rage,\nBlack and murderous, that cost the Greeks\nIncalculable pain, pitched countless souls\nOf heroes into Hades' dark,\nAnd left their bodies to rot as feasts\nFor dogs and birds, as Zeus' will was done.",
+      "Book 5 - Athena encourages Diomedes": "And Athena, whose eyes wereas grey as owls:\n\n\"Diomedes, son of Tydeus, I do love you.\nYou don't have to fear Ares or any other\nOf the immortals. Look who is here beside you.\nDrive your horses directly at Ares\nAnd when you're in range, strike.\nDOn't be in awe of Ares. He's nothing but\n A shifty lout. He promised Hera and me\nHe would fight against Troy and help the Greeks.\nNow he's turned Trojan and abandoned us.\"",
+      "3": "Placeholder"
+    }
+  },
+  "wilson": {
+    "translator": "Emily Wilson",
+    "year": 2018,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0393089053/",
+      "goodreads": "https://www.goodreads.com/book/show/33370532-the-iliad"
+    },
+    "description": "Emily Wilson's translation of the Iliad, published in 2018, brings a fresh and contemporary voice to the epic, offering a nuanced and engaging interpretation for modern readers.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, goddess, of Achilles' rage,\nmurderous, doomed, that cost the Achaeans countless losses,\nhurling down to the House of Death so many sturdy souls,\ngreat fighters' souls, but made their bodies carrion,\nfeasts for the dogs and birds,\nand the will of Zeus was moving toward its end.",
+      "Book 5 - Athena encourages Diomedes": "",
+      "3": "Placeholder"
+    }
+  },
+  "butler": {
+    "translator": "Samuel Butler",
+    "year": 1898,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/1533422921/",
+      "goodreads": "https://www.goodreads.com/book/show/2682.The_Iliad",
+      "online": "http://classics.mit.edu/Homer/iliad.html"
+    },
+    "description": "Samuel Butler's translation of the Iliad, published in 1898, offers a Victorian-era rendition with a focus on clarity and accessibility.",
+    "quotes": {
+      "Intro - Book 1": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so were the counsels of Jove fulfilled from the day on which the son of Atreus, king of men, and great Achilles, first fell out with one another.",
+      "Book 5 - Athena encourages Diomedes": "\"Diomedes, son of Tydeus,\" replied Athena, \"man after my own heart, fear neither Ares nor any other of the immortals, for I will befriend you. Nay, drive straight at Ares, and smite him in close combat; fear not this raging madman, villain incarnate, first on one side and then on the other. But now he was holding talk with Hera and myself, saying he would help the Argives and attack the Trojans; nevertheless he is with the Trojans, and has forgotten the Argives.\"",
+      "Book 22 - Hector before Death": "He poised his spear as he spoke and hurled it. His aim was true for he hit the middle of Achilles' shield, but the spear rebounded from it, and did not pierce it. Hektor was angry when he saw that the weapon had sped from his hand in vain, and stood there in dismay for he had no second spear. With a loud cry he called Deiphobos and asked him for one, but there was no man; then he saw the truth and said to himself, \"Alas! the gods have lured me on to my destruction. I deemed that the hero Deiphobos was by my side, but he is within the wall, and Athena has inveigled me; death is now indeed exceedingly near at hand and there is no way out of it - for so Zeus and his son Apollo the far-darter have willed it, though heretofore they have been ever ready to protect me. My doom has come upon me; let me not then die ingloriously and without a struggle, but let me first do some great thing that shall be told among men hereafter.\""
+    }
+  },
+  "chapman": {
+    "translator": "George Chapman",
+    "year": 1611,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0374525749/",
+      "goodreads": "https://www.goodreads.com/book/show/4118.The_Iliad",
+      "online": "https://www.gutenberg.org/ebooks/51355"
+    },
+    "description": "George Chapman's translation of the Iliad, released in 1611, showcases a poetic and vibrant interpretation that captures the grandeur and majesty of Homer's work.",
+    "quotes": {
+      "Book 1 - Intro": "Achilles' baneful wrath resound, O Goddess, that impos'd\nInfinite sorrows on the Greeks, and many brave souls loos'd\nFrom breasts heroic; sent them far to that invisible cave\nThat no light comforts; and their limbs to dogs and vultures gave:\nTo all which Jove's will gave effect; from whom first strife begun\nBetwixt Atrides, king of men, and Thetis' godlike son.",
+      "Book 5 - Athena encourages Diomedes": "\"My dearest mind,” said she,\n\"What then was fit is chang'd. 'Tis true, Mars hath just rule in war,\nBut just war; otherwise he raves, not fights. He's alter'd far.\nHe vow'd to Juno, and myself, that his aid should be us'd\nAgainst the Trojans, whom it guards; and therein he abus'd\nHis rule in arms, infring'd his word, and made his war unjust.\nHe is inconstant, impious, mad. Resolve then; firmly trust\nMy aid of thee against his worst, or any Deity;\nAdd scourge to thy free horse, charge home; he fights perfidiously.\"",
+      "3": "Placeholder"
+    }
+  },
+  "pope": {
+    "translator": "Alexander Pope",
+    "year": 1720,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0140447946",
+      "goodreads": "https://www.goodreads.com/book/show/2685.The_Iliad",
+      "online": "https://www.gutenberg.org/files/6130/6130-h/6130-h.htm"
+    },
+    "description": "Alexander Pope's translation of the Iliad, published in 1720, presents a renowned and elegant rendering in heroic couplets, embellishing the epic with his own distinct poetic style.",
+    "quotes": {
+      "Book 1 - Intro": "Achilles' wrath, to Greece the direful spring\nOf woes unnumbered, heavenly goddess, sing!\nThat wrath which hurled to Pluto's gloomy reign\nThe souls of mighty chiefs untimely slain;\nWhose limbs, unburied on the naked shore,\nDevouring dogs and hungry vultures tore.\nSince great Achilles and Atrides strove,\nSuch was the sovereign doom, and such the will of Jove!",
+      "Book 5 - Athena encourages Diomedes": "Then thus Minerva:—\"Brave Tydides, hear!\nNot Mars himself, nor aught immortal, fear.\nFull on the god impel thy foaming horse:\nPallas commands, and Pallas lends thee force.\nRash, furious, blind, from these to those he flies,\nAnd every side of wavering combat tries;\nLarge promise makes, and breaks the promise made:\nNow gives the Grecians, now the Trojans aid.\"",
+      "3": "Placeholder"
+    }
+  },
+  "rieu": {
+    "translator": "E. V. Rieu",
+    "year": 1950,
+    "links": {
+      "amazon": "https://www.amazon.com/gp/reader/0140447946/",
+      "goodreads": "https://www.goodreads.com/book/show/1370.The_Iliad",
+      "online": "https://ia801501.us.archive.org/14/items/in.ernet.dli.2015.123454/2015.123454.The-Iliad.pdf"
+    },
+    "description": "E. V. Rieu's translation of the Iliad, published in 1950, provides a modern and readable rendition that aims to make the timeless tale of the Trojan War accessible to contemporary audiences.",
+    "quotes": {
+      "Book 1 - Intro": "Anger--sing, goddess, the anger of Achilles son of Peleus, that accursed anger, which brought the Greeks endless sufferings and sent the mighty sould of many warriors to Hades, leaving their bodies as carrion for the dogs and a feast for the birds; and Zeus' purpose was fulfilled. It all began when Agamemnon lord of men and godlike Achilles quarrelled and parted.",
+      "Book 5 - Athena encourages Diomedes": "",
+      "3": "Placeholder"
+    }
+  },
+  "hammond": {
+    "translator": "Martin Hammond",
+    "year": 1987,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0140444440/",
+      "goodreads": "https://www.goodreads.com/book/show/11107.The_Iliad"
+    },
+    "description": "Martin Hammond's translation of the Iliad, released in 1987, combines a scholarly approach with a clear and engaging style, offering a balanced and accessible reading experience.",
+    "quotes": {
+      "Book 1 - Intro": "",
+      "Book 5 - Athena encourages Diomedes": "",
+      "3": "Placeholder"
+    }
+  },
+  "mitchell": {
+    "translator": "Stephen Mitchell",
+    "year": 2011,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/1439163378/",
+      "goodreads": "https://www.goodreads.com/book/show/10835.The_Iliad"
+    },
+    "description": "Stephen Mitchell's translation of the Iliad, published in 2011, presents a fresh and contemporary interpretation, capturing the timeless essence of the epic with a poetic and accessible language.",
+    "quotes": {
+      "Book 1 - Intro": "",
+      "Book 5 - Athena encourages Diomedes": "",
+      "3": "Placeholder"
+    }
+  },
+  "fitzgerald": {
+    "translator": "Robert Fitzgerald",
+    "year": 1974,
+    "links": {
+      "amazon": "https://www.amazon.ca/Iliad-Homer/dp/0374529051/",
+      "goodreads": "https://www.goodreads.com/book/show/5274.The_Iliad"
+    },
+    "description": "Robert Fitzgerald's translation of the Iliad, published in 1974, is a highly acclaimed rendition that balances fidelity to the original Greek text with a captivating and lyrical style, creating an immersive and evocative reading experience.",
+    "quotes": {
+      "Book 1 - Intro": "Anger be now your song, immortal one,\nAkhilleus' anger, doomed and ruinous,\nthat caused the Akhaians loss on bitter loss\nand crowded brave souls into the undergloom,\nleaving so many dead men—carrion\nfor dogs and birds; and the will of Zeus was done.",
+      "Book 5 - Athena encourages Diomedes": "",
+      "3": "Placeholder"
+    }
+  }
+}

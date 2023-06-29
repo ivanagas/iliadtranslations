@@ -1,0 +1,16 @@
+.buttonRow {
+  display: flex;
+}
+
+.buttonRow button {
+  margin-right: 10px;
+}
+
+.passageContent {
+  display: flex;
+}
+
+.passageContent p {
+  flex: 1;
+  margin-right: 10px;
+}
