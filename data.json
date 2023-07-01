@@ -159,14 +159,13 @@
   },
   "graves": {
     "translator": "Robert Graves",
-    "year": 1900,
+    "year": 1960,
     "links": {
-      "amazon": "",
-      "online": ""
+      "amazon": "https://www.amazon.com/Anger-Achilles-Iliad-Homer/dp/0140455604"
     },
     "description": "The Robert Graves translation of the Iliad offers a poetic and accessible rendition of Homer's epic, capturing both its timeless themes and the essence of its ancient language.",
     "quotes": {
-      "Book 1 - Intro": "",
+      "Book 1 - Intro": "Sing, MOUNTAIN GODDESS, sing through me\nThat anger which most ruinously\nInflamed Achilles, Peleus' son,\nAnd which, before the tale was done,\nHad glutted Hell with champions—bold, \nStern spirits by the thousandfold;\nRavens and dogs their corpses ate.\nFor thus did ZEUS, who watched their fate,\nSee his resolve, first taken when\nProud Agamemnon, King of men,\nAn insult on Achilles cast,\nAchieve accomplishment at last.",
       "Book 5 - Athena encourages Diomedes": "",
       "Book 6 - Leaves": "",
       "Book 9 - Glory or long life": "",
