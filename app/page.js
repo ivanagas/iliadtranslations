@@ -45,6 +45,7 @@ export default async function Home() {
         - More reviews
         - More translations
         - More analysis links
+        - Add further readings from each book
       </p>
       <p>A site with a full list of Translations: http://johnstoniatexts.x10host.com/homer/homertranslations.html</p>
       <p>Commentary from him: http://johnstoniatexts.x10host.com/homer/iliadessay8html.html</p>

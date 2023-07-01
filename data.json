@@ -25,10 +25,10 @@
     "description": "Richmond Lattimore's translation of the Iliad, published in 1951, offers a faithful and scholarly rendition of Homer's epic masterpiece.",
     "quotes": {
       "Book 1 - Intro": "Sing, goddess, the anger of Peleus' son Achilleus\nand its devastation, which puts pains thousandfold upon the Achaians,\nhurled in their multitudes to the house of Hades strong souls\nof heroes, but gave their bodies to be the delicate feasting\nof dogs, of all birds, and the will of Zeus was accomplished\nsince that time when first there stood in division of conflict\nAtreus' son the lord of men and brilliant Achilleus.",
-      "Book 5 - Athena encourages Diomedes": "",
-      "Book 6 - Leaves": "",
-      "Book 9 - Glory or long life": "",
-      "Book 21 - Moaning about death": ""
+      "Book 5 - Athena encourages Diomedes": "Then in turn the goddess grey-eyed Athene answered him:\n'Son of Tydeus, you who delight my heart, Diomedes,\nno longer be thus afraid of Ares, nor of any other\nimmortal; such a helper shall I be standing beside you.\nCome then, first against Ares steer your single-foot horses,\nand strike him from close. Be not afraid of violent Ares,\nthat thing of fury, evil-wrought, that double-faced liar\nwho even now protested to Hera and me, promising\nthat he would fight against the Trojans and stand by the Argives.\nNow, all promises forgotten, he stands by the Trojans.'",
+      "Book 6 - Leaves": "As is the generation of leaves, so is that of humanity.\nThe wind scatters the leaves on the ground, but the live timber\nburgeons with leaves again in the season of spring returning.\nSo one generation of men will grow while another\ndies.",
+      "Book 9 - Glory or long life": "I carry two sorts of destiny toward the day of my death. Either,\nif I stay here and fight beside the city of the Trojans,\nmy return home is gone, but my glory shall be everlasting;\nbut if I return home to the beloved land of my fathers,\nthe excellence of my glory is gone, but there will be a long life\nleft for me, and my end in death will not come to me quickly.",
+      "Book 21 - Moaning about death": "So, friend, you die also. Why all this clamour about it?\nPatroklos also is dead, who was better by far than you are.\nDo you not see what a man I am, how huge, how splendid\nand born of a great father, and the mother who bore me immortal?\nYet even I have also my death and my strong destiny"
     }
   },
   "lombardo": {
@@ -105,11 +105,11 @@
     },
     "description": "E. V. Rieu's translation of the Iliad, published in 1950, provides a modern and readable rendition that aims to make the timeless tale of the Trojan War accessible to contemporary audiences.",
     "quotes": {
-      "Book 1 - Intro": "Anger--sing, goddess, the anger of Achilles son of Peleus, that accursed anger, which brought the Greeks endless sufferings and sent the mighty sould of many warriors to Hades, leaving their bodies as carrion for the dogs and a feast for the birds; and Zeus' purpose was fulfilled. It all began when Agamemnon lord of men and godlike Achilles quarrelled and parted.",
-      "Book 5 - Athena encourages Diomedes": "",
-      "Book 6 - Leaves": "",
-      "Book 9 - Glory or long life": "",
-      "Book 21 - Moaning about death": ""
+      "Book 1 - Intro": "Anger — sing, goddess, the anger of Achilles son of Peleus, that accursed anger, which brought the Greeks endless sufferings and sent the mighty souls of many warriors to Hades, leaving their bodies as carrion for the dogs and a feast for the birds; and Zeus' purpose was fulfilled. It all began when Agamemnon lord of men and godlike Achilles quarrelled and parted.",
+      "Book 5 - Athena encourages Diomedes": "Diomedes son of Tydeus, my pride and joy, don't be afraid of Ares or any other god. You have me to help you! Quick now (830) — drive your horses straight at him. Let him have it at short range. Don't be intimidated by wild Ares, that mad, double-dealing delinquent. Earlier on he gave Hera and myself his word to fight against the Trojans and help the Greeks — and now he has forgotten all he said and is fighting on the Trojan side.",
+      "Book 6 - Leaves": "The family of man is like the leaves of the trees. The wind scatters them on the ground, but the trees burst into bud and grow fresh leaves when the spring comes round. So with the family (150) of man: one generation grows, the other fades.",
+      "Book 9 - Glory or long life": "My divine mother, silver-footed Thetis, says that destiny has left two courses open to me on my journey to the grave. If I stay here and fight it out round Ilium, there is no home-coming for me, but there will be eternal glory instead. If I go back to the land of my fathers, my heroic glory will be forfeit, but my life will be long and I shall be spared an early death.",
+      "Book 21 - Moaning about death": "Yes, my friend, you die too. Why make such a song about it? Even Patroclus died, who was a better man than you by far. And look at me. Don't you see how big and handsome I am? I am the son of a great man. A goddess was my mother. Yet death and inexorable destiny are waiting for me as well."
     }
   },
   "hammond": {
