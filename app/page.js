@@ -13,7 +13,8 @@ export default async function Home() {
   return (
     <div>
       <h1>Iliad Translations</h1>
-      <p>This is a site dedicated to Iliad translations.</p>
+      <p>The Iliad of Homer is an epic, ancient Greek poem. It is one of the oldest works of literature still read. It takes place near the end of the siege of Troy by the Greeks (also known as the Trojan War). The story depicts argument between King Agamemnon and the great warrior Achilles, and the ensuing consequences on all parties involved.</p>
+      <p>The Iliad has been translated 100s of times. This site lists and compares some of the most popular ones to help you find the version that works for you.</p>
       <p>See details on individual translations like:</p>
       <ul>
         {translators.map((translator) => (
@@ -46,9 +47,11 @@ export default async function Home() {
         - More translations
         - More analysis links
         - Add further readings from each book
+        - How to use this site
+        - Home page compare
       </p>
-      <p>A site with a full list of Translations: http://johnstoniatexts.x10host.com/homer/homertranslations.html</p>
-      <p>Commentary from him: http://johnstoniatexts.x10host.com/homer/iliadessay8html.html</p>
+      <Link href="http://johnstoniatexts.x10host.com/homer/homertranslations.html">A site with a full list of Translations.</Link><span> </span>
+      <Link href="http://johnstoniatexts.x10host.com/homer/iliadessay8html.html">Commentary from Ian Johnston on Iliad Translations</Link>
     </div>
   )
 }
