@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 import openai
 
-name = "Robert Graves"
+name = "A. T. Murray"
 
 with open('data.json', 'r+') as file:
   data = json.load(file)
@@ -24,7 +24,6 @@ with open('data.json', 'r+') as file:
   # Generate description
   load_dotenv()
   openai.api_key = os.getenv("OPENAI_API_KEY")
-
 
   prompt = f"Write a one sentence description of the ${name} translation of the Iliad."
 

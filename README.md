@@ -32,3 +32,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Python
+
+To activate virtual environment:
+
+```bash
+source env/bin/activate
+```
+
+## Add new translation
+
+1. Activate virtual environment
+2. Update `add_translation.py` with new translator name.
+3. Run `python add_translation.py`
+4. Check that no unintended changes were made.
+5. Add quotes by searching:
+  - Book 1, intro
+  - "Tydeus" look towards end of book.
+  - "Leaves"
+  - Thetis, fate, glory
+  - Patroclus
+6. Update date, links
+7. Run `generate_comparisons.py`
+8. Check that no unintended changes were made.
+9. Commit changes.

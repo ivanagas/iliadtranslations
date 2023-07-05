@@ -112,21 +112,6 @@
       "Book 21 - Moaning about death": "Yes, my friend, you die too. Why make such a song about it? Even Patroclus died, who was a better man than you by far. And look at me. Don't you see how big and handsome I am? I am the son of a great man. A goddess was my mother. Yet death and inexorable destiny are waiting for me as well."
     }
   },
-  "hammond": {
-    "translator": "Martin Hammond",
-    "year": 1987,
-    "links": {
-      "amazon": "https://www.amazon.com/Iliad-New-Prose-Translation/dp/0140444440"
-    },
-    "description": "Martin Hammond's translation of the Iliad, released in 1987, combines a scholarly approach with a clear and engaging style, offering a balanced and accessible reading experience.",
-    "quotes": {
-      "Book 1 - Intro": "",
-      "Book 5 - Athena encourages Diomedes": "",
-      "Book 6 - Leaves": "",
-      "Book 9 - Glory or long life": "",
-      "Book 21 - Moaning about death": ""
-    }
-  },
   "mitchell": {
     "translator": "Stephen Mitchell",
     "year": 2011,
@@ -135,11 +120,11 @@
     },
     "description": "Stephen Mitchell's translation of the Iliad, published in 2011, presents a fresh and contemporary interpretation, capturing the timeless essence of the epic with a poetic and accessible language.",
     "quotes": {
-      "Book 1 - Intro": "The rage of Achilles—sing it now, goddess, sing through me\nthe deadly rage that caused the Achaeans such grief\nand hurled down to Hades the souls of so many fighters,\nleaving their naked flesh to be eaten by dogs\nand carrion birds, as the will of Zeus was accomplished.\nBegin at the time when bitter words first divided\nthat king of men, Agamemnon, and godlike Achilles.",
+      "Book 1 - Intro": "The rage of Achilles\u2014sing it now, goddess, sing through me\nthe deadly rage that caused the Achaeans such grief\nand hurled down to Hades the souls of so many fighters,\nleaving their naked flesh to be eaten by dogs\nand carrion birds, as the will of Zeus was accomplished.\nBegin at the time when bitter words first divided\nthat king of men, Agamemnon, and godlike Achilles.",
       "Book 5 - Athena encourages Diomedes": "Athena answered him, \"Joy of my heart, Diomedes,\nson of Tydeus, do not fear Ares or any\nother immortal, since I have come here to help you.\nGet up, drive straight at Ares, close in and hit him.\nDon't be awed by this raging madman, a monster\nof violence, a brazen and two-faced liar\nwho a while ago made a promise to me and Hera\nthat he would stand by the Argives and fight the Trojans,\nyet now he is fighting on their side, forgetting his pledge.\"",
       "Book 6 - Leaves": "Men come and go, just like the leaves in their seasons.\nThe wind scatters one year's leaves on the ground, but the forest\nbursts with new buds as soon as springtime arrives,\nand it is the same with men: one generation\ncomes to life while another one passes away.",
       "Book 9 - Glory or long life": "My mother, Thetis,\ntells me that there are two ways I might die. If I stay here\nand keep on fighting around the city of Troy,\nI can never go home, but my glory will live forever;\nbut if I return in my ships to my own dear country,\nmy glory will die, but my life will be long and peaceful.",
-      "Book 21 - Moaning about death": "So courage, my friend;\nyou too must die. Why all this moaning about it?\nEven Patroclus died, and he was a better\nman than you are. And don't you see me—how huge\nand handsome I am? My father is a great king\nand my mother a goddess. Yet death stands waiting for me\nas well."
+      "Book 21 - Moaning about death": "So courage, my friend;\nyou too must die. Why all this moaning about it?\nEven Patroclus died, and he was a better\nman than you are. And don't you see me\u2014how huge\nand handsome I am? My father is a great king\nand my mother a goddess. Yet death stands waiting for me\nas well."
     }
   },
   "fitzgerald": {
@@ -157,19 +142,35 @@
       "Book 21 - Moaning about death": "Come, friend, face your death, you too. And why are you so piteous about it?\nPatroklos died, and he was a finer man\nby far than you. YOu see, don't you, how large\nI am, and how well-made? My father is noble,\na goddess bore me. Yet death waits for me,\nfor me as well, in all the power of fate."
     }
   },
-  "graves": {
-    "translator": "Robert Graves",
-    "year": 1960,
+  "alexander": {
+    "translator": "Caroline Alexander",
+    "year": 2016,
     "links": {
-      "amazon": "https://www.amazon.com/Anger-Achilles-Iliad-Homer/dp/0140455604"
+      "amazon": "https://www.amazon.com/Iliad-New-Translation-Caroline-Alexander/dp/0062046284"
     },
-    "description": "The Robert Graves translation of the Iliad offers a poetic and accessible rendition of Homer's epic, capturing both its timeless themes and the essence of its ancient language.",
+    "description": "The Caroline Alexander translation of the Iliad captures the intensity and epic nature of Homer's timeless tale with its poetic language and faithful rendition of the original text.",
     "quotes": {
-      "Book 1 - Intro": "Sing, MOUNTAIN GODDESS, sing through me\nThat anger which most ruinously\nInflamed Achilles, Peleus' son,\nAnd which, before the tale was done,\nHad glutted Hell with champions—bold, \nStern spirits by the thousandfold;\nRavens and dogs their corpses ate.\nFor thus did ZEUS, who watched their fate,\nSee his resolve, first taken when\nProud Agamemnon, King of men,\nAn insult on Achilles cast,\nAchieve accomplishment at last.",
-      "Book 5 - Athena encourages Diomedes": "",
-      "Book 6 - Leaves": "",
-      "Book 9 - Glory or long life": "",
-      "Book 21 - Moaning about death": ""
+      "Book 1 - Intro": "Wrath—sing, goddess, of the ruinous wrath of Peleus' son Achilles,\nthat inflicted woes without number upon the Achaeans,\nhurled forth to Hades many strong souls of warriors\nand rendered their bodies prey for the dogs,\nfor all birds, and the will of Zeus was accomplished;\nsing from when they two first stood in conflict—\nAtreus' son, lord of men, and godlike Achilles.",
+      "Book 5 - Athena encourages Diomedes": "Then the gleaming-eyed goddess Athena answered him:\n\"Son of Tydeus, Diomedes, delighting my heart,\ndo not fear Ares on this account nor any other\nof the immortals; such an ally to you am I.\nBut come, hold your single-hoofed horses straight for Ares,\nstrike at close quarters, do not stand in awe of furious Ares,\nthis madman, created for evil, double-faced,\nwho only yesterday to myself and Hera declaiming aloud pledged\nto fight the Trojans, and defend the Argives,\nand now he bands with the Trojans, and has no thought of this.\"",
+      "Book 6 - Leaves": "As a generation of leaves, so is the generation of men.\nThe wind scatters some leaves to the ground, but the forest grows others\nthat flourish and in the time of spring come to succeed them;\nso a generation of men either grows, or it dies.",
+      "Book 9 - Glory or long life": "if I remain here to fight around the city of the Trojans,\nmy return home is lost, but my glory will be undying;\nbut if I go home to the beloved land of my father,\noutstanding glory will be lost to me, but my life will be long,\nnor will death's end come on me swiftly.",
+      "Book 21 - Moaning about death": "Come friend, you die too; why bewail this so?\nEven Patroclus died, who was far better than you.\nDo you not see how magnificent and mighty I am?\nI am born of a noble father, and a goddess the mother who bore me,\nyet death and powerful fate is upon me too;"
+    }
+  },
+  "murray": {
+    "translator": "A. T. Murray",
+    "year": 1924,
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-Homer/dp/1521566798",
+      "online": "https://en.wikisource.org/wiki/The_Iliad_(Murray)"
+    },
+    "description": "The A. T. Murray translation of the Iliad presents a faithful and elaborate rendition of Homer's epic, capturing the intensity and grandeur of the Trojan War.",
+    "quotes": {
+      "Book 1 - Intro": "The wrath sing, goddess, of Peleus' son, Achilles, that destructive wrath which brought countless woes upon the Achaeans, and sent forth to Hades many valiant souls of heroes, and made them themselves spoil for dogs and every bird; thus the plan of Zeus came to fulfillment, from the time when first they parted in strife Atreus' son, king of men, and brilliant Achilles.",
+      "Book 5 - Athena encourages Diomedes": "And the goddess, flashing-eyed Athene, answered him, saying: \"Son of Tydeus, Diomedes, dear to my heart, fear thou not Ares for that, neither any other of the immortals; so present a helper am I to thee. Nay, come, at Ares first drive thou thy single-hooved horses, and smite him in close fight, neither have thou awe of furious Ares that raveth here a full-wrought bane, a renegade, that but now spake with me and Hera, and made as though he would fight against the Trojans but give aid to the Argives; yet now he consorteth with the Trojans and hath forgotten these.\"",
+      "Book 6 - Leaves": "Even as are the generations of leaves, such are those also of men. As for the leaves, the wind scattereth some upon the earth, but the forest, as it bourgeons, putteth forth others when the season of spring is come; even so of men one generation springeth up and another passeth away.",
+      "Book 9 - Glory or long life": "For my mother the goddess, silver-footed Thetis, telleth me that twofold fates are bearing me toward the doom of death: if I abide here and war about the city of the Trojans, then lost is my home-return, but my renown shall be imperishable; but if I return home to my dear native land, lost then is my glorious renown, yet shall my life long endure, neither shall the doom of death come soon upon me.",
+      "Book 21 - Moaning about death": "Nay, friend, do thou too die; why lamentest thou thus? Patroclus also died, who was better far than thou. And seest thou not what manner of man am I, how comely and how tall? A good man was my father, and a goddess the mother that bare me; yet over me too hang death and mighty fate."
     }
   }
 }
