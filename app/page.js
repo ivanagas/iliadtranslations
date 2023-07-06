@@ -18,7 +18,7 @@ export default async function Home() {
       <h2>Individual Translations</h2>
       <ul>
         {translators.map((translator) => (
-          <li>
+          <li key={translator}>
             <Link href={`/details/${translator}`}>{translatorData[translator].translator}</Link>
           </li>
         ))}
@@ -26,7 +26,7 @@ export default async function Home() {
       <h2>Comparisons</h2>
       <ul>
         {comparisonsList.map((comparison) => (
-          <li>
+          <li key={comparison}>
             <Link href={`/compare/${comparison}`}>{comparisonData[comparison].name}</Link>
           </li>
         ))}

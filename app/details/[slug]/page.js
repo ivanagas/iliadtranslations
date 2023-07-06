@@ -31,7 +31,7 @@ export default async function Details({ params }) {
       <h2>Links:</h2>
       <ul>
         {Object.keys(data.links).map((link) => (
-          <li>
+          <li key={link}>
             <Link href={data.links[link]}>{link}</Link>
           </li>
         ))}
@@ -40,7 +40,7 @@ export default async function Details({ params }) {
       <Selector data={data}></Selector>
       <h2>Comparisons:</h2>
       {comparisonList.map((comparison) => (
-        <li>
+        <li key={comparison}>
           <Link href={`/compare/${comparison}`}>{removeVsName(comparisons[comparison].name, slug)}</Link>
         </li>
       ))}

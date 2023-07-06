@@ -12,10 +12,10 @@ export default async function DetailsList() {
 
   return (
     <div>
-      <h1>Here's a list of all the Iliad Translations</h1>
+      <h1>Here is a list of all the Iliad Translations</h1>
       <ul>
         {translators.map((translator) => (
-          <li>
+          <li key={translator}>
             <Link href={`/details/${translator}`}>{data[translator].translator}</Link>
           </li>
         ))}

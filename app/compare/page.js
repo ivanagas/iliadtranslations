@@ -13,10 +13,10 @@ export default async function ComparisonList() {
 
   return (
     <div>
-      <h1>Here's a list of every comparison</h1>
+      <h1>Here is a list of every comparison</h1>
       <ul>
         {comparisonList.map((comparison) => (
-          <li>
+          <li key={comparison}>
             <Link href={`/compare/${comparison}`}>{comparisons[comparison].name}</Link>
           </li>
         ))}

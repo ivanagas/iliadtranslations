@@ -15,7 +15,7 @@ export default function Selector(props) {
   };
 
   const formatPassage = (passage) => {
-    return passage?.split("\n").map((text, i) => i ? [<br/>, text] : text)
+    return passage?.split("\n").map((text, i) => i ? [<b key={i}/>, text] : text)
   }
 
   return (
