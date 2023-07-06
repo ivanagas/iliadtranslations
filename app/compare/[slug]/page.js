@@ -80,7 +80,7 @@ export async function generateMetadata({ params }) {
   //   description: `Comparing the Iliad translations of ${t1.translator} and ${t2.translator} with a set of passages.`,
   // }
 
-    return {
+  return {
     title: `Iliad Translations Comparison`,
     description: `Comparing the Iliad translations with a set of passages.`,
   }
