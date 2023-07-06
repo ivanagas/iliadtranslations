@@ -71,13 +71,12 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }) {
   const data = await getData(params.slug)
-  const compare = await getComparisonData(params.slug)
 
   const t1 = data[Object.keys(data)[0]]
   const t2 = data[Object.keys(data)[1]]
 
   return {
     title: `${t1.translator} vs ${t2.translator} Iliad Translations Comparison`,
-    description: compare.description
+    description: `Comparing the Iliad translations of ${t1.translator} and ${t2.translator} with a set of passages.`,
   }
 }
