@@ -6,8 +6,8 @@ from itertools import combinations
 from dotenv import load_dotenv
 import openai
 
-# load data.json
-with open('data.json') as translator_data_file, open('comparisons.json') as comparison_data_file:
+# load translators.json
+with open('translators.json') as translator_data_file, open('comparisons.json') as comparison_data_file:
   translator_data = json.load(translator_data_file)
   comparison_data = json.load(comparison_data_file)
 

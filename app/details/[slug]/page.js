@@ -49,7 +49,7 @@ export default async function Details({ params }) {
 }
 
 async function getData(slug) {
-  const data = fs.readFileSync('data.json');
+  const data = fs.readFileSync('translators.json');
   const jsonData = JSON.parse(data);
   return jsonData[slug];
 }
@@ -69,7 +69,7 @@ async function getComparisons(slug) {
 }
 
 export async function generateStaticParams() {
-  const data = fs.readFileSync('data.json');
+  const data = fs.readFileSync('translators.json');
   const jsonData = JSON.parse(data);
   const translators = Object.keys(jsonData);
 

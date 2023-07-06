@@ -6,7 +6,7 @@ import openai
 
 name = "A. T. Murray"
 
-with open('data.json', 'r+') as file:
+with open('translators.json', 'r+') as file:
   data = json.load(file)
   
   name_key = name.lower().split()[-1]
@@ -17,7 +17,7 @@ with open('data.json', 'r+') as file:
     sys.exit(0)
   
   # Save the old data
-  with open('old_data.json', 'w') as outfile:
+  with open('old_translators.json', 'w') as outfile:
     json.dump(data, outfile)
     print('old data saved')
 
@@ -60,5 +60,5 @@ with open('data.json', 'r+') as file:
 
   print(f"New entry added for {name}.")
 
-  with open('new_data.json', 'w') as new_outfile:
+  with open('new_translators.json', 'w') as new_outfile:
     json.dump(data, new_outfile)

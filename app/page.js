@@ -45,7 +45,7 @@ export default async function Home() {
         </ul>
         <li>Write tests</li>
         <ul>
-          <li>Check data.json has all the fields</li>
+          <li>Check translators.json has all the fields</li>
           <li>Check all the pages are generated</li>
         </ul>
         <li>Add tags</li>
@@ -67,7 +67,7 @@ export default async function Home() {
 }
 
 async function getTranslators() {
-  const data = fs.readFileSync('data.json');
+  const data = fs.readFileSync('translators.json');
   const jsonData = JSON.parse(data);
   return jsonData;
 }

@@ -25,7 +25,7 @@ export default async function DetailsList() {
 }
 
 async function getData() {
-  const data = fs.readFileSync('data.json');
+  const data = fs.readFileSync('translators.json');
   const jsonData = JSON.parse(data);
   return jsonData;
 }
