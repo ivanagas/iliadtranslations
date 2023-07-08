@@ -42,7 +42,6 @@ export default async function Comparisons({ params }) {
 }
 
 async function getData(slug) {
-  // const translatorFile = path.join(process.cwd(), '', 'translators.json');
   const translatorData = fs.readFileSync('translators.json');
   const translatorJson = JSON.parse(translatorData);
   const translators = slug.split("-vs-");
@@ -64,33 +63,27 @@ async function getData(slug) {
   }
 }
 
-// async function getComparisonData(slug) {
-// ;
+export async function generateStaticParams() {
+  const data = fs.readFileSync('comparisons.json');
+  const jsonData = JSON.parse(data);
+  const comparisons = Object.keys(jsonData);
 
-//   return comparison
-// }
-
-// export async function generateStaticParams() {
-//   const data = fs.readFileSync('comparisons.json');
-//   const jsonData = JSON.parse(data);
-//   const comparisons = Object.keys(jsonData);
+  const paths = comparisons.map((comparison) => ({
+    slug: comparison,
+  }))
  
-//   return comparisons
-// }
+  return paths
+}
+
 
 export async function generateMetadata({ params }) {
-  // const data = await getData(params.slug);
+  const data = await getData(params.slug);
 
-  // const t1 = data[Object.keys(data)[0]];
-  // const t2 = data[Object.keys(data)[1]];
-
-  // return {
-  //   title: `${t1.translator} vs ${t2.translator} Iliad Translations Comparison`,
-  //   description: `Comparing the Iliad translations of ${t1.translator} and ${t2.translator} with a set of passages.`,
-  // }
+  const t1 = data[Object.keys(data)[0]];
+  const t2 = data[Object.keys(data)[1]];
 
   return {
-    title: `Iliad Translations Comparison`,
-    description: `Comparing the Iliad translations with a set of passages.`,
+    title: `${t1.translator} vs ${t2.translator} Iliad Translations Comparison`,
+    description: `Comparing the Iliad translations of ${t1.translator} and ${t2.translator} with a set of passages.`,
   }
 }
