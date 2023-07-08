@@ -1,6 +1,7 @@
 import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
+import path from 'path'
 
 export default async function Comparisons({ params }) {
   const { slug } = params
@@ -41,7 +42,8 @@ export default async function Comparisons({ params }) {
 }
 
 async function getData(slug) {
-  const translatorData = fs.readFileSync('translators.json'); // something wrong here in prod
+  const translatorFile = path.join(process.cwd(), '', 'translators.json');
+  const translatorData = fs.readFileSync(translatorFile);
   const translatorJson = JSON.parse(translatorData);
   const translators = slug.split("-vs-");
 
