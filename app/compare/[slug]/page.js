@@ -6,10 +6,12 @@ export default async function Comparisons({ params }) {
   const { slug } = params
   
   const data = await getData(slug)
-  const comparison = await getComparisonData(slug)
 
-  const t1 = data[Object.keys(data)[0]]
-  const t2 = data[Object.keys(data)[1]]
+  const translators = data['translators']
+  const comparison = data['comparison']
+
+  const t1 = translators[Object.keys(translators)[0]]
+  const t2 = translators[Object.keys(translators)[1]]
 
   return (
     <div>
@@ -19,7 +21,7 @@ export default async function Comparisons({ params }) {
       
       <h2>Passage comparison</h2>
       <p>A row of buttons to select from available passages</p>
-      <Selector data={data}></Selector>
+      <Selector data={translators}></Selector>
       
       <h2>Details</h2>
       <ul>
@@ -39,35 +41,40 @@ export default async function Comparisons({ params }) {
 }
 
 async function getData(slug) {
-  const data = fs.readFileSync('translators.json');
-  const jsonData = JSON.parse(data);
+  const translatorData = fs.readFileSync('translators.json'); // something wrong here in prod
+  const translatorJson = JSON.parse(translatorData);
   const translators = slug.split("-vs-");
 
-  const filteredJson = Object.keys(jsonData)
+  const filteredJson = Object.keys(translatorJson)
   .filter(key => translators.includes(key))
   .reduce((result, key) => {
-    result[key] = jsonData[key];
+    result[key] = translatorJson[key];
     return result;
   }, {});
 
-  return filteredJson
+  const comparisonData = fs.readFileSync('comparisons.json');
+  const comparisonJson = JSON.parse(comparisonData);
+  const comparison = comparisonJson[slug]
+
+  return {
+    'translators': filteredJson,
+    'comparison': comparison
+  }
 }
 
-async function getComparisonData(slug) {
-  const data = fs.readFileSync('comparisons.json');
-  const jsonData = JSON.parse(data);
-  const comparison = jsonData[slug];
+// async function getComparisonData(slug) {
+// ;
 
-  return comparison
-}
+//   return comparison
+// }
 
-export async function generateStaticParams() {
-  const data = fs.readFileSync('comparisons.json');
-  const jsonData = JSON.parse(data);
-  const comparisons = Object.keys(jsonData);
+// export async function generateStaticParams() {
+//   const data = fs.readFileSync('comparisons.json');
+//   const jsonData = JSON.parse(data);
+//   const comparisons = Object.keys(jsonData);
  
-  return comparisons
-}
+//   return comparisons
+// }
 
 export async function generateMetadata({ params }) {
   // const data = await getData(params.slug);
