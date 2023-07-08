@@ -42,8 +42,8 @@ export default async function Comparisons({ params }) {
 }
 
 async function getData(slug) {
-  const translatorFile = path.join(process.cwd(), '', 'translators.json');
-  const translatorData = fs.readFileSync(translatorFile);
+  // const translatorFile = path.join(process.cwd(), '', 'translators.json');
+  const translatorData = fs.readFileSync('translators.json');
   const translatorJson = JSON.parse(translatorData);
   const translators = slug.split("-vs-");
 
