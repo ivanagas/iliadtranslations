@@ -1,7 +1,6 @@
 import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
-import path from 'path'
 
 export default async function Comparisons({ params }) {
   const { slug } = params
