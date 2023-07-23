@@ -26,12 +26,12 @@ export default async function Comparisons({ params }) {
       <h2>Details</h2>
       <ul>
         <li>
-          <Link href={`/details/${Object.keys(data)[0]}`}>
+          <Link href={`/details/${Object.keys(translators)[0]}`}>
             {t1.translator}
           </Link>
         </li>
         <li>
-          <Link href={`/details/${Object.keys(data)[1]}`}>
+          <Link href={`/details/${Object.keys(translators)[1]}`}>
             {t2.translator}
           </Link>
         </li>
@@ -77,9 +77,10 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }) {
   const data = await getData(params.slug);
+  const translators = data['translators']
 
-  const t1 = data[Object.keys(data)[0]];
-  const t2 = data[Object.keys(data)[1]];
+  const t1 = translators[Object.keys(translators)[0]];
+  const t2 = translators[Object.keys(translators)[1]];
 
   return {
     title: `${t1.translator} vs ${t2.translator} Iliad Translations Comparison`,
