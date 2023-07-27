@@ -28,7 +28,6 @@ export default async function Todo() {
         <li>More analysis links</li>
         <li>Add further readings from each book</li>
         <li>How to use this site</li>
-        <li>Home page compare</li>
         <li>Quiz to find your translation (popularity, accuracy, prose/verse)</li>
       </ul>
     </div>
