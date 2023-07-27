@@ -1,5 +1,6 @@
 import fs from 'fs'
 import Link from 'next/link'
+import Selector from './selector'
 
 export default async function Home() {
 
@@ -9,13 +10,14 @@ export default async function Home() {
   const comparisonData = await getComparisons()
   const comparisonsList = Object.keys(comparisonData)
 
-
   return (
     <div>
       <h1>Iliad Translations</h1>
       <p>The Iliad of Homer is an epic, ancient Greek poem. It is one of the oldest works of literature still read. It takes place near the end of the siege of Troy by the Greeks (also known as the Trojan War). The story depicts argument between King Agamemnon and the great warrior Achilles, and the ensuing consequences on all parties involved.</p>
       <p>The Iliad has been translated 100s of times. This site lists and compares some of the most popular ones to help you find the version that works for you.</p>
-      <h2>Individual Translations</h2>
+      <h2>Compare Translations</h2>
+      <Selector data={translatorData}></Selector>
+      <h2>List of Individual Translations</h2>
       <ul>
         {translators.map((translator) => (
           <li key={translator}>
@@ -23,7 +25,7 @@ export default async function Home() {
           </li>
         ))}
       </ul>
-      <h2>Comparisons</h2>
+      <h2>List of Comparisons</h2>
       <ul>
         {comparisonsList.map((comparison) => (
           <li key={comparison}>
