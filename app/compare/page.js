@@ -21,6 +21,7 @@ export default async function ComparisonList() {
           </li>
         ))}
       </ul>
+      <Link href="/">Home</Link>
     </div>
   )
 }

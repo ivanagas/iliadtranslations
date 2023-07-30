@@ -20,6 +20,7 @@ export default async function DetailsList() {
           </li>
         ))}
       </ul>
+      <Link href="/">Home</Link>
     </div>
   )
 }

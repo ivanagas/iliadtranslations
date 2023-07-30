@@ -39,11 +39,14 @@ export default async function Details({ params }) {
       <h2>Passages:</h2>
       <Selector data={data}></Selector>
       <h2>Comparisons:</h2>
+      <ul>
       {comparisonList.map((comparison) => (
         <li key={comparison}>
           <Link href={`/compare/${comparison}`}>{removeVsName(comparisons[comparison].name, slug)}</Link>
         </li>
       ))}
+      </ul>
+      <Link href="/">Home</Link> - <Link href="/details">All translations</Link>
     </div>
   )
 }

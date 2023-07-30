@@ -36,6 +36,7 @@ export default async function Comparisons({ params }) {
           </Link>
         </li>
       </ul>
+      <Link href="/">Home</Link> - <Link href="/compare">All comparions</Link>
     </div>
   )
 }
