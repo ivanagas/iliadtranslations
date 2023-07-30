@@ -13,8 +13,9 @@ export default async function Home() {
   return (
     <div>
       <h1>Iliad Translations</h1>
-      <p>The Iliad of Homer is an epic, ancient Greek poem. It is one of the oldest works of literature still read. It takes place near the end of the siege of Troy by the Greeks (also known as the Trojan War). The story depicts argument between King Agamemnon and the great warrior Achilles, and the ensuing consequences on all parties involved.</p>
-      <p>The Iliad has been translated 100s of times. This site lists and compares some of the most popular ones to help you find the version that works for you.</p>
+      <p>The Iliad of Homer is an epic, ancient Greek poem. It is one of the oldest works of literature still read. It takes place near the end of the siege of Troy by the Greeks (also known as the Trojan War). The story depicts an argument between King Agamemnon and the great warrior Achilles, and the consequences of it on the ongoing war between Trojans and Greeks.</p>
+      <p>The Iliad has been translated 100s of times, so versions vary widely. Some are faithful to Homer's original Greek, others focus on readability. Some are in verse, others in prose. The experience of reading the Iliad can be dramatically different depending on the version you choose.</p>
+      <p>To help you make this choice, this site lists some of the most popular translations with a summary and passages to see which you like best.</p>
       <h2>Compare Translations</h2>
       <Selector data={translatorData}></Selector>
       <h2>List of Individual Translations</h2>
