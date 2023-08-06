@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <meta property="og:image" content='https://iliadtranslations.com/opengraph-image.png' />
+      <meta name="twitter:image" content="https://iliadtranslations.com/opengraph-image.png" />
       <Suspense>
         <PostHogPageview />
       </Suspense>
