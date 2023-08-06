@@ -13,7 +13,8 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-        <Suspense>
+      <meta property="og:image" content='https://iliadtranslations.com/opengraph-image.png' />
+      <Suspense>
         <PostHogPageview />
       </Suspense>
       <PHProvider>
