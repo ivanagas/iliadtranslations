@@ -1,5 +1,7 @@
 .buttonRow {
   display: flex;
+  max-width: 42rem;
+  margin: auto;
 }
 
 .buttonRow button {
@@ -13,4 +15,5 @@
 .passageContent p {
   flex: 1;
   margin-right: 10px;
+  max-width: 37rem;
 }

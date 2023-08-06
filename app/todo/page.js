@@ -3,10 +3,12 @@ import Link from "next/link";
 export default async function Todo() {
 
   return (
-    <div>
+    <div className="main">
       <Link href="/">Go Home</Link>
       <h2>Future Todos</h2>
       <ul>
+        <li>Add opengraph</li>
+        <li>Turn selector into one component that can handle 1, 2, or multiple translations</li>
         <li>Pull popular details and comparisons from PostHog in JSON</li>
         <ul>
           <li>Pageviews</li>
