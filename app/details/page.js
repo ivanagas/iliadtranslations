@@ -11,7 +11,7 @@ export default async function DetailsList() {
   const translators = Object.keys(data)
 
   return (
-    <div>
+    <div className="main">
       <h1>Here is a list of all the Iliad Translations</h1>
       <ul>
         {translators.map((translator) => (

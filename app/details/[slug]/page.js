@@ -24,7 +24,7 @@ export default async function Details({ params }) {
   };
 
   return (
-    <div>
+    <div className="main">
       <h1>{data.translator} Iliad Translation</h1>
       <h2>Year: {data.year}</h2>
       <p>{data.description}</p>

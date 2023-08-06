@@ -1,8 +1,9 @@
-import { Inter } from 'next/font/google'
+import { Open_Sans } from 'next/font/google'
 import { PHProvider, PostHogPageview } from './providers'
 import { Suspense } from 'react'
+import './globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
+const openSans = Open_Sans({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Iliad Translations',
@@ -16,7 +17,7 @@ export default function RootLayout({ children }) {
         <PostHogPageview />
       </Suspense>
       <PHProvider>
-        <body className={inter.className}>{children}</body>
+        <body className={`${openSans.className} container`}>{children}</body>
       </PHProvider>
     </html>
   )

@@ -15,28 +15,30 @@ export default async function Comparisons({ params }) {
 
   return (
     <div>
-      <h1>{t1.translator} vs {t2.translator} Iliad Translation Comparison</h1>
-      <h2>Years: {t1.year} and {t2.year}</h2>
-      <p>{comparison.description}</p>
-      
-      <h2>Passage comparison</h2>
-      <p>A row of buttons to select from available passages</p>
+      <div className="main">
+        <h1>{t1.translator} vs {t2.translator} Iliad Translation Comparison</h1>
+        <h2>Years: {t1.year} and {t2.year}</h2>
+        <p>{comparison.description}</p>
+        
+        <h2>Passage comparison</h2>
+      </div>
       <Selector data={translators}></Selector>
-      
-      <h2>Details</h2>
-      <ul>
-        <li>
-          <Link href={`/details/${Object.keys(translators)[0]}`}>
-            {t1.translator}
-          </Link>
-        </li>
-        <li>
-          <Link href={`/details/${Object.keys(translators)[1]}`}>
-            {t2.translator}
-          </Link>
-        </li>
-      </ul>
-      <Link href="/">Home</Link> - <Link href="/compare">All comparions</Link>
+      <div className="main">
+        <h2>Details</h2>
+        <ul>
+          <li>
+            <Link href={`/details/${Object.keys(translators)[0]}`}>
+              {t1.translator}
+            </Link>
+          </li>
+          <li>
+            <Link href={`/details/${Object.keys(translators)[1]}`}>
+              {t2.translator}
+            </Link>
+          </li>
+        </ul>
+        <Link href="/">Home</Link> - <Link href="/compare">All comparions</Link>
+      </div>
     </div>
   )
 }

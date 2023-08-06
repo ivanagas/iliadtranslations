@@ -12,7 +12,7 @@ export default async function ComparisonList() {
   const comparisonList = Object.keys(comparisons);
 
   return (
-    <div>
+    <div className="main">
       <h1>Here is a list of every comparison</h1>
       <ul>
         {comparisonList.map((comparison) => (
