@@ -1,6 +1,7 @@
 import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
+import styles from './page.module.css'
 
 export default async function Details({ params }) {
   const { slug } = params
@@ -9,6 +10,8 @@ export default async function Details({ params }) {
 
   const comparisons = await getComparisons(slug)
   const comparisonList = Object.keys(comparisons);
+
+  const tagsString = data.tags.join(", ");
 
   const removeVsName = (inputString, variableName) => {
 
@@ -26,7 +29,10 @@ export default async function Details({ params }) {
   return (
     <div className="main">
       <h1>{data.translator} Iliad Translation</h1>
-      <h2>Year: {data.year}</h2>
+      <div className={styles.subtitle}>
+        <h2>Year: {data.year}</h2>
+        <h2>Tags: {tagsString}</h2>
+      </div>
       <p>{data.description}</p>
       <h2>Links:</h2>
       <ul>

@@ -41,6 +41,7 @@ with open('translators.json', 'r+') as file:
   new_entry = {
     "translator": name,
     "year": 1900,
+     "tags": [],
     "links": {
       "amazon": "",
       "online": ""

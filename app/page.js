@@ -29,6 +29,19 @@ export default async function Home() {
             </li>
           ))}
         </ul>
+        <p>
+          <Link href="/tag/free">
+            Free
+          </Link> - <Link href="/tag/oldest">
+            Oldest
+          </Link> - <Link href="/tag/newest">
+            Newest
+          </Link> - <Link href="/tag/prose">
+            Prose
+          </Link> - <Link href="/tag/verse">
+            Verse
+          </Link>
+        </p>
         <h2>List of Comparisons</h2>
         <ul>
           {comparisonsList.map((comparison) => (
