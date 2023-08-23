@@ -241,11 +241,31 @@
     },
     "description": "The Anthony Verity translation of the Iliad presents a poetic and accessible rendition capturing the epic's emotional intensity and timeless themes.",
     "quotes": {
-      "Book 1 - Intro": "SING, goddess, the anger of Achilles, Peleus' son,\nthe accursed anger which brought the Achaeans countless\nagonies and hurled many mighty shades of heroes into Hades,\ncausing them to become the prey of dogs and\nall kinds of birds; and the plan of Zeus was fulfilled.\nSing from the time the two men were first divided in strife—\nAtreus' son, lord of men, and glorious Achilles.",
+      "Book 1 - Intro": "SING, goddess, the anger of Achilles, Peleus' son,\nthe accursed anger which brought the Achaeans countless\nagonies and hurled many mighty shades of heroes into Hades,\ncausing them to become the prey of dogs and\nall kinds of birds; and the plan of Zeus was fulfilled.\nSing from the time the two men were first divided in strife\u2014\nAtreus' son, lord of men, and glorious Achilles.",
       "Book 5 - Athena encourages Diomedes": "Then in answer the goddess grey-eyed Athena addressed him:\n\"Diomedes, son of Tydeus, delight of my heart,\nyou should not on this account be afraid of Ares or any other\nof the immortals; that is the kind of support I give to you.\nSo come now, direct your single-hoofed horses first against Ares,\ngo close and strike him; do not be in awe of impetuous Ares,\nthis crazed god, this shape formed of evil, this two-faced scoundrel,\nwho not long ago spoke with Hera and me and undertook\nto fight against the Trojans and bring aid to the Argives, but\nnow stands alongside the Trojans, and has forgotten his promise.\"",
       "Book 6 - Leaves": "As is the family of leaves, so it is also with men:\nthe wind scatters the leaves on the ground, but the forest breaks\ninto bud and makes more when the spring season comes round.\nSo with the family of men, one generation grows and another ceases.",
       "Book 9 - Glory or long life": "My mother, Thetis of the silver feet, tells me that there are\ntwo spectres carrying me towards the end of death:if I remain here and fight around the city of the Trojans,\nI shall lose my homecoming, but my fame will never die,\nwhile if I go back home to my dear native land,\nmy noble fame will be lost, but my life will be long,\nand the end of death will not come quickly upon me.",
       "Book 21 - Moaning about death": "So, my friend, you too must die; why lament like this?\nEven Patroclus is dead, who was a far better man than you.\nCan you not see what kind of a man I am, how handsome and great?\nI am the son of a well-born man, and the mother who bore me was\na goddess, and yet over me too hangs death and my harsh destiny."
+    }
+  },
+  "johnston": {
+    "translator": "Ian Johnston",
+    "year": 1900,
+    "tags": [
+      "free",
+      "verse"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-Homer/dp/0977626903",
+      "online": "http://johnstoniatexts.x10host.com/homer/iliad_title.html"
+    },
+    "description": "The Ian Johnston translation of the Iliad captures the timeless epic with its poetic and accessible language, offering a contemporary retelling of Homer's ancient masterpiece.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, Goddess, sing the rage of Achilles, son of Peleus\u2014\nthat murderous anger which condemned Achaeans\nto countless agonies and threw many warrior souls\ndeep into Hades, leaving their dead bodies\ncarrion food for dogs and birds\u2014\nall in fulfilment of the will of Zeus.",
+      "Book 5 - Athena encourages Diomedes": "Bright-eyed goddess Athena answered him:\n\u201cDiomedes, son of Tydeus,\nyou fill my heart with joy. Don\u2019t fear Ares\nor any other immortal deity.\nFor I\u2019ll give you all the help you need.\nBut come, first let your sure-footed horses\ncharge at Ares. Hit him up close. Have no fear\nof headstrong Ares, that madman, born evil,\nthat fickle god. Just now he gave his word\nto me and Hera too that he would fight\nthe Trojans and assist the Argives. But now,\nhe\u2019s forgotten that and helps the Trojans.\"",
+      "Book 6 - Leaves": "Generations of men are like the leaves.\nIn winter, winds blow them down to earth,\nbut then, when spring season comes again,\nthe budding wood grows more. And so with men\u2014\none generation grows, another dies away.",
+      "Book 9 - Glory or long life": "My goddess mother, silver-footed Thetis,\nhas said two fates may bring about my death.\nIf I remain here, continuing the fight\nagainst the Trojans\u2019 city, that means\nI won\u2019t be going home, but my glory\nwill never die. But if I go back home,\nmy fame will die, although my life will last\na long time\u2014death will not end it quickly.",
+      "Book 21 - Moaning about death": "So now, my friend,\nyou too must die. Why be sad about it?\nPatroclus died, a better man than you.\nAnd look at me. You see how fine I am,\nhow tall, how handsome? My father\u2019s a fine man,\nthe mother who gave birth to me a goddess.\nYet over me, as well, hangs Fate\u2014my death."
     }
   }
 }
