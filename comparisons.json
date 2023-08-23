@@ -39,6 +39,10 @@
     "name": "Fagles vs Murray",
     "description": "Fagles' translation of the Iliad is known for its modern, accessible language and capturing the emotional depth of the characters, while Murray's translation emphasizes a more traditional, formal style that maintains the epic's grandeur and poetic qualities."
   },
+  "fagles-vs-green": {
+    "name": "Fagles vs Green",
+    "description": "Fagles's translation of the Iliad is known for its poetic power and readability, while Green's translation is praised for its scholarly accuracy and linguistic elegance."
+  },
   "lattimore-vs-lombardo": {
     "name": "Lattimore vs Lombardo",
     "description": "Lombardo's translation of the Iliad is more accessible and engaging, while Lattimore's is more faithful to the original Greek."
@@ -75,6 +79,10 @@
     "name": "Lattimore vs Murray",
     "description": "Lattimore's translation of the Iliad captures the poetic intensity and grandeur of Homer's words, while Murray's translation maintains a more accessible and colloquial style, bringing the timeless tale to a wider range of readers."
   },
+  "lattimore-vs-green": {
+    "name": "Lattimore vs Green",
+    "description": "Lattimore's translation of the Iliad stays close to the original text, preserving its poetic qualities, while Green's translation adds a more modern flair, making it accessible and engaging for contemporary readers."
+  },
   "lombardo-vs-butler": {
     "name": "Lombardo vs Butler",
     "description": "Lombardo's translation of the Iliad emphasizes the poem's action and vividness, while Butler's translation emphasizes its clarity and musicality."
@@ -107,6 +115,10 @@
     "name": "Lombardo vs Murray",
     "description": "Lombardo's translation of the Iliad provides a contemporary and accessible adaptation, prioritizing readability for modern readers, while Murray's translation offers a more poetic and classical rendition that captures the epic's grandeur and linguistic beauty."
   },
+  "lombardo-vs-green": {
+    "name": "Lombardo vs Green",
+    "description": "Lombardo's translation of the Iliad presents a modern and highly-readable version that captures the epic's action-driven narrative, while Green's translation provides a more poetic and lyrical rendition that delves into the depth of the characters' emotions and motivations."
+  },
   "butler-vs-chapman": {
     "name": "Butler vs Chapman",
     "description": "Butler's Iliad translation is more modern and easier to read than Chapman's, but Chapman's is more poetic and captures the epic feel of the original."
@@ -135,6 +147,10 @@
     "name": "Butler vs Murray",
     "description": "The Butler translation of the Iliad captures the essence of the epic with a more straightforward and accessible language, while the Murray translation showcases a more poetic and lyrical rendition, staying true to the beauty and grandeur of the original text."
   },
+  "butler-vs-green": {
+    "name": "Butler vs Green",
+    "description": "Butler's translation of the Iliad is characterized by its poetic language and adherence to the original text, while Green's translation is praised for its accessibility and readability, making both versions valuable choices for readers of Homer's epic."
+  },
   "chapman-vs-pope": {
     "name": "Chapman vs Pope",
     "description": "Chapman's translation of the Iliad is more faithful to the original Greek text while Pope's translation is more poetic and refined."
@@ -159,6 +175,10 @@
     "name": "Chapman vs Murray",
     "description": "Chapman's translation of the Iliad emphasizes epic grandeur and employs elaborate poetic language, while Murray's translation focuses on accessibility and readability, utilizing a more modern, straightforward style."
   },
+  "chapman-vs-green": {
+    "name": "Chapman vs Green",
+    "description": "Chapman's translation of the Iliad is known for its vibrant and poetic language, while Green's translation focuses on capturing the essence and meaning of the original Greek text with clarity and accessibility."
+  },
   "pope-vs-rieu": {
     "name": "Pope vs Rieu",
     "description": "Pope's translation of the Iliad is more ornate and poetic, while Rieu's translation is more accessible and closely adheres to the original Greek."
@@ -179,6 +199,10 @@
     "name": "Pope vs Murray",
     "description": "Pope's translation of the Iliad is known for its ornate language and poetic style, while Murray's translation is praised for its clarity and accessibility, each offering a unique interpretation of Homer's epic."
   },
+  "pope-vs-green": {
+    "name": "Pope vs Green",
+    "description": "Pope's translation of the Iliad is renowned for its grandiose and elevated style, while Green's translation offers a more accessible and modern approach to the epic, making it highly suitable for contemporary readers."
+  },
   "rieu-vs-mitchell": {
     "name": "Rieu vs Mitchell",
     "description": "Rieu's translation of the Iliad emphasizes a more formal and traditional narrative, while Mitchell's translation adopts a more contemporary and lively style."
@@ -195,6 +219,10 @@
     "name": "Rieu vs Murray",
     "description": "Rieu's translation of the Iliad provides a concise and accessible rendition of Homer's epic, while Murray's translation captures the grandeur and richness of the original text with a more poetic and elaborate style."
   },
+  "rieu-vs-green": {
+    "name": "Rieu vs Green",
+    "description": "Rieu's translation of the Iliad is more accessible to modern readers, offering a clear and straightforward narration, while Green's translation captures the poetic beauty and intensity of Homer's original language, catering to those seeking a more lyrical and evocative rendition."
+  },
   "mitchell-vs-fitzgerald": {
     "name": "Mitchell vs Fitzgerald",
     "description": "While Mitchell's translation of the Iliad resonates with a modern audience, Fitzgerald's translation captures the beauty and grandeur of Homer's original text."
@@ -207,6 +235,10 @@
     "name": "Mitchell vs Murray",
     "description": "Mitchell's translation of the Iliad captivates with its poetic and flowing language, while Murray's translation focuses on the raw intensity and brutality of the epic, offering a more visceral reading experience."
   },
+  "mitchell-vs-green": {
+    "name": "Mitchell vs Green",
+    "description": "Mitchell's translation of the Iliad captures the grandeur and poetic beauty of Homer's original text, while Green's translation provides a more concise and accessible rendition that maintains the essence of the story."
+  },
   "fitzgerald-vs-alexander": {
     "name": "Fitzgerald vs Alexander",
     "description": "Fitzgerald's translation of the Iliad captures the poetic grandeur and emotional depth of Homer's epic, while Alexander's translation presents a more straightforward and accessible interpretation that stays true to the original text."
@@ -215,8 +247,20 @@
     "name": "Fitzgerald vs Murray",
     "description": "Fitzgerald's translation of the Iliad portrays a poetic and lyrical rendition of the epic, while Murray's translation captures a more raw and visceral depiction, known for its close adherence to the original Greek text."
   },
+  "fitzgerald-vs-green": {
+    "name": "Fitzgerald vs Green",
+    "description": "Fitzgerald's translation of the Iliad captures the poetic beauty and emotional depth of Homer's epic, while Green's translation is more contemporary, focusing on the clarity and accessibility of the text without sacrificing its power."
+  },
   "alexander-vs-murray": {
     "name": "Alexander vs Murray",
     "description": "Alexander's translation of the Iliad is known for its poetic and musical quality, capturing the emotional depth of the original Greek text, while Murray's translation focuses on conveying the narrative and action of the epic in a more accessible and readable manner."
+  },
+  "alexander-vs-green": {
+    "name": "Alexander vs Green",
+    "description": "Alexander's translation of the Iliad captures the epic's intensity and emotion, staying true to the original Greek while offering a flowing and accessible experience for modern readers. Green's translation, on the other hand, leans towards a more literal interpretation, providing a faithful rendering of the text's nuances and wordplay, although at times sacrificing fluidity and readability."
+  },
+  "murray-vs-green": {
+    "name": "Murray vs Green",
+    "description": "Murray's translation of the Iliad captures the epic's grandeur and power with a more traditional style, while Green's translation offers a modern and accessible rendition that highlights the emotional depth and ambiguity of the characters."
   }
 }

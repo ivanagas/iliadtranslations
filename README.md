@@ -32,10 +32,10 @@ source env/bin/activate
 4. Check that no unintended changes were made.
 5. Add quotes by searching:
   - Book 1, intro
-  - "Tydeus" look towards end of book.
-  - "Leaves"
-  - Thetis, fate, glory
-  - Patroclus
+  - Book 5, "Tydeus" look towards end of book.
+  - Book 6, "Leaves"
+  - Book 9, Thetis, fate, glory
+  - Book 21, Patroclus
 6. Update date, links
 7. Run `generate_comparisons.py`
 8. Check that no unintended changes were made.

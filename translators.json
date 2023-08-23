@@ -2,7 +2,10 @@
   "fagles": {
     "translator": "Robert Fagles",
     "year": 1990,
-    "tags": ["free", "verse"],
+    "tags": [
+      "free",
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Homer/dp/0140275363/",
       "online": "https://home.ubalt.edu/ntygfit/ai_01_pursuing_fame/ai_01_tell/iliad00.htm"
@@ -19,7 +22,10 @@
   "lattimore": {
     "translator": "Richmond Lattimore",
     "year": 1951,
-    "tags": ["free", "verse"],
+    "tags": [
+      "free",
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Homer-Richmond-Lattimore/dp/0226470490",
       "online": "https://homer.library.northwestern.edu/html/application.html"
@@ -36,7 +42,9 @@
   "lombardo": {
     "translator": "Stanley Lombardo",
     "year": 1997,
-    "tags": ["verse"],
+    "tags": [
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Hackett-Classics-Homer/dp/0872203522",
       "review": "https://archive.nytimes.com/www.nytimes.com/books/97/07/20/reviews/970720.20mendelt.html"
@@ -53,7 +61,10 @@
   "butler": {
     "translator": "Samuel Butler",
     "year": 1898,
-    "tags": ["free", "prose"],
+    "tags": [
+      "free",
+      "prose"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Homer-Samuel-Butler-Translator/dp/1587260948",
       "online": "http://classics.mit.edu/Homer/iliad.html"
@@ -70,7 +81,10 @@
   "chapman": {
     "translator": "George Chapman",
     "year": 1611,
-    "tags": ["free", "verse"],
+    "tags": [
+      "free",
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Chapmans-Homer-Iliad/dp/0691002363",
       "online": "https://www.gutenberg.org/ebooks/51355",
@@ -88,7 +102,10 @@
   "pope": {
     "translator": "Alexander Pope",
     "year": 1720,
-    "tags": ["free", "verse"],
+    "tags": [
+      "free",
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Verse-Translation-Alexander-Illustrated/dp/1480048348",
       "online": "https://www.gutenberg.org/files/6130/6130-h/6130-h.htm"
@@ -105,7 +122,10 @@
   "rieu": {
     "translator": "E. V. Rieu",
     "year": 1950,
-    "tags": ["free", "prose"],
+    "tags": [
+      "free",
+      "prose"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Homer/dp/0140447946",
       "online": "https://ia801501.us.archive.org/14/items/in.ernet.dli.2015.123454/2015.123454.The-Iliad.pdf"
@@ -122,7 +142,9 @@
   "mitchell": {
     "translator": "Stephen Mitchell",
     "year": 2011,
-    "tags": ["verse"],
+    "tags": [
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Stephen-Mitchell-Translation/dp/1439163383"
     },
@@ -138,7 +160,9 @@
   "fitzgerald": {
     "translator": "Robert Fitzgerald",
     "year": 1974,
-    "tags": ["verse"],
+    "tags": [
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Fitzgerald-Translation-Homer/dp/0374529051"
     },
@@ -154,13 +178,15 @@
   "alexander": {
     "translator": "Caroline Alexander",
     "year": 2016,
-    "tags": ["verse"],
+    "tags": [
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-New-Translation-Caroline-Alexander/dp/0062046284"
     },
     "description": "The Caroline Alexander translation of the Iliad captures the intensity and epic nature of Homer's timeless tale with its poetic language and faithful rendition of the original text.",
     "quotes": {
-      "Book 1 - Intro": "Wrath—sing, goddess, of the ruinous wrath of Peleus' son Achilles,\nthat inflicted woes without number upon the Achaeans,\nhurled forth to Hades many strong souls of warriors\nand rendered their bodies prey for the dogs,\nfor all birds, and the will of Zeus was accomplished;\nsing from when they two first stood in conflict—\nAtreus' son, lord of men, and godlike Achilles.",
+      "Book 1 - Intro": "Wrath\u2014sing, goddess, of the ruinous wrath of Peleus' son Achilles,\nthat inflicted woes without number upon the Achaeans,\nhurled forth to Hades many strong souls of warriors\nand rendered their bodies prey for the dogs,\nfor all birds, and the will of Zeus was accomplished;\nsing from when they two first stood in conflict\u2014\nAtreus' son, lord of men, and godlike Achilles.",
       "Book 5 - Athena encourages Diomedes": "Then the gleaming-eyed goddess Athena answered him:\n\"Son of Tydeus, Diomedes, delighting my heart,\ndo not fear Ares on this account nor any other\nof the immortals; such an ally to you am I.\nBut come, hold your single-hoofed horses straight for Ares,\nstrike at close quarters, do not stand in awe of furious Ares,\nthis madman, created for evil, double-faced,\nwho only yesterday to myself and Hera declaiming aloud pledged\nto fight the Trojans, and defend the Argives,\nand now he bands with the Trojans, and has no thought of this.\"",
       "Book 6 - Leaves": "As a generation of leaves, so is the generation of men.\nThe wind scatters some leaves to the ground, but the forest grows others\nthat flourish and in the time of spring come to succeed them;\nso a generation of men either grows, or it dies.",
       "Book 9 - Glory or long life": "if I remain here to fight around the city of the Trojans,\nmy return home is lost, but my glory will be undying;\nbut if I go home to the beloved land of my father,\noutstanding glory will be lost to me, but my life will be long,\nnor will death's end come on me swiftly.",
@@ -170,7 +196,9 @@
   "murray": {
     "translator": "A. T. Murray",
     "year": 1924,
-    "tags": ["prose"],
+    "tags": [
+      "prose"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Homer/dp/1521566798",
       "online": "https://en.wikisource.org/wiki/The_Iliad_(Murray)"
@@ -182,6 +210,22 @@
       "Book 6 - Leaves": "Even as are the generations of leaves, such are those also of men. As for the leaves, the wind scattereth some upon the earth, but the forest, as it bourgeons, putteth forth others when the season of spring is come; even so of men one generation springeth up and another passeth away.",
       "Book 9 - Glory or long life": "For my mother the goddess, silver-footed Thetis, telleth me that twofold fates are bearing me toward the doom of death: if I abide here and war about the city of the Trojans, then lost is my home-return, but my renown shall be imperishable; but if I return home to my dear native land, lost then is my glorious renown, yet shall my life long endure, neither shall the doom of death come soon upon me.",
       "Book 21 - Moaning about death": "Nay, friend, do thou too die; why lamentest thou thus? Patroclus also died, who was better far than thou. And seest thou not what manner of man am I, how comely and how tall? A good man was my father, and a goddess the mother that bare me; yet over me too hang death and mighty fate."
+    }
+  },
+  "green": {
+    "translator": "Peter Green",
+    "year": 2015,
+    "tags": ["prose"],
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-New-Translation-Peter-Green/dp/0520281411"
+    },
+    "description": "The Peter Green translation of the Iliad is a highly respected and eloquent rendition of Homer's epic poem, capturing the beauty and intensity of the original Greek text.",
+    "quotes": {
+      "Book 1 - Intro": "Wrath, goddess, sing of Achilles Pēleus's son's\ncalamitous wrath, which hit the Achaians with countless ills\u2014\nmany the valiant souls it saw off down to Hādēs,\nsouls of heroes, their selves1 left as carrion for dogs\nand all birds of prey, and the plan of Zeus was fulfilled\nfrom the first moment those two men parted in fury,\nAtreus's son, king of men, and the godlike Achilles.",
+      "Book 5 - Athena encourages Diomedes": "Then in answer to him spoke the goddess, grey-eyed Athēnē:\n“Diomēdēs, Tydeus's son, so dear to my heart, you need not\nfear Arēs because of that, nor any one of the other\nimmortals\u2014such a supporter I am on your behalf!\nSo come, straight off at Arēs drive your whole-hoofed horses\u2014\nGet up close, hit him, don't be in awe of frantic Arēs,\nthis raving madman, a sick piece of work, a two-faced\nliar, who just now promised, when talking with me and Hērē,\nto fight the Trojans, yes, and give aid to the Argives\u2014\nbut now consorts with the Trojans, his promises forgotten.”",
+      "Book 6 - Leaves": "As the generation of leaves, so is that of mankind:\nsome leaves the wind scatters earthwards, but the fertile\nwoodland grows others as spring returns in season.\nSo with men: one generation grows, while another dies.",
+      "Book 9 - Glory or long life": "My mother, silver-footed Thetis the goddess, tells me\nthat two contrary spirits go with me until the end that's death.\nIf I stay here, and fight around the Trojans' city\nI'll lose my homecoming, but gain imperishable renown.\nOn the other hand, if I return to my own dear country\nmy fine renown will have perished, but my life will long endure,\nand the end of death will not find me any time soon.",
+      "Book 21 - Moaning about death": "So, friend, you too must die: why then lament thus?\nPatroklos too is dead, a far better man than you are.\nCan't you see what I'm like, how handsome and tall I am?\nA fine father sired me, the mother who bore me was a goddess\u2014\nYet over me too hang death and all-mastering destiny\""
     }
   }
 }
