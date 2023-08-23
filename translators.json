@@ -215,17 +215,37 @@
   "green": {
     "translator": "Peter Green",
     "year": 2015,
-    "tags": ["prose"],
+    "tags": [
+      "verse"
+    ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-New-Translation-Peter-Green/dp/0520281411"
     },
     "description": "The Peter Green translation of the Iliad is a highly respected and eloquent rendition of Homer's epic poem, capturing the beauty and intensity of the original Greek text.",
     "quotes": {
-      "Book 1 - Intro": "Wrath, goddess, sing of Achilles Pēleus's son's\ncalamitous wrath, which hit the Achaians with countless ills\u2014\nmany the valiant souls it saw off down to Hādēs,\nsouls of heroes, their selves1 left as carrion for dogs\nand all birds of prey, and the plan of Zeus was fulfilled\nfrom the first moment those two men parted in fury,\nAtreus's son, king of men, and the godlike Achilles.",
-      "Book 5 - Athena encourages Diomedes": "Then in answer to him spoke the goddess, grey-eyed Athēnē:\n“Diomēdēs, Tydeus's son, so dear to my heart, you need not\nfear Arēs because of that, nor any one of the other\nimmortals\u2014such a supporter I am on your behalf!\nSo come, straight off at Arēs drive your whole-hoofed horses\u2014\nGet up close, hit him, don't be in awe of frantic Arēs,\nthis raving madman, a sick piece of work, a two-faced\nliar, who just now promised, when talking with me and Hērē,\nto fight the Trojans, yes, and give aid to the Argives\u2014\nbut now consorts with the Trojans, his promises forgotten.”",
+      "Book 1 - Intro": "Wrath, goddess, sing of Achilles P\u0113leus's son's\ncalamitous wrath, which hit the Achaians with countless ills\u2014\nmany the valiant souls it saw off down to H\u0101d\u0113s,\nsouls of heroes, their selves1 left as carrion for dogs\nand all birds of prey, and the plan of Zeus was fulfilled\nfrom the first moment those two men parted in fury,\nAtreus's son, king of men, and the godlike Achilles.",
+      "Book 5 - Athena encourages Diomedes": "Then in answer to him spoke the goddess, grey-eyed Ath\u0113n\u0113:\n\u201cDiom\u0113d\u0113s, Tydeus's son, so dear to my heart, you need not\nfear Ar\u0113s because of that, nor any one of the other\nimmortals\u2014such a supporter I am on your behalf!\nSo come, straight off at Ar\u0113s drive your whole-hoofed horses\u2014\nGet up close, hit him, don't be in awe of frantic Ar\u0113s,\nthis raving madman, a sick piece of work, a two-faced\nliar, who just now promised, when talking with me and H\u0113r\u0113,\nto fight the Trojans, yes, and give aid to the Argives\u2014\nbut now consorts with the Trojans, his promises forgotten.\u201d",
       "Book 6 - Leaves": "As the generation of leaves, so is that of mankind:\nsome leaves the wind scatters earthwards, but the fertile\nwoodland grows others as spring returns in season.\nSo with men: one generation grows, while another dies.",
       "Book 9 - Glory or long life": "My mother, silver-footed Thetis the goddess, tells me\nthat two contrary spirits go with me until the end that's death.\nIf I stay here, and fight around the Trojans' city\nI'll lose my homecoming, but gain imperishable renown.\nOn the other hand, if I return to my own dear country\nmy fine renown will have perished, but my life will long endure,\nand the end of death will not find me any time soon.",
       "Book 21 - Moaning about death": "So, friend, you too must die: why then lament thus?\nPatroklos too is dead, a far better man than you are.\nCan't you see what I'm like, how handsome and tall I am?\nA fine father sired me, the mother who bore me was a goddess\u2014\nYet over me too hang death and all-mastering destiny\""
+    }
+  },
+  "verity": {
+    "translator": "Anthony Verity",
+    "year": 2012,
+    "tags": [
+      "verse"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-Homer/dp/0199645213"
+    },
+    "description": "The Anthony Verity translation of the Iliad presents a poetic and accessible rendition capturing the epic's emotional intensity and timeless themes.",
+    "quotes": {
+      "Book 1 - Intro": "SING, goddess, the anger of Achilles, Peleus' son,\nthe accursed anger which brought the Achaeans countless\nagonies and hurled many mighty shades of heroes into Hades,\ncausing them to become the prey of dogs and\nall kinds of birds; and the plan of Zeus was fulfilled.\nSing from the time the two men were first divided in strife—\nAtreus' son, lord of men, and glorious Achilles.",
+      "Book 5 - Athena encourages Diomedes": "Then in answer the goddess grey-eyed Athena addressed him:\n\"Diomedes, son of Tydeus, delight of my heart,\nyou should not on this account be afraid of Ares or any other\nof the immortals; that is the kind of support I give to you.\nSo come now, direct your single-hoofed horses first against Ares,\ngo close and strike him; do not be in awe of impetuous Ares,\nthis crazed god, this shape formed of evil, this two-faced scoundrel,\nwho not long ago spoke with Hera and me and undertook\nto fight against the Trojans and bring aid to the Argives, but\nnow stands alongside the Trojans, and has forgotten his promise.\"",
+      "Book 6 - Leaves": "As is the family of leaves, so it is also with men:\nthe wind scatters the leaves on the ground, but the forest breaks\ninto bud and makes more when the spring season comes round.\nSo with the family of men, one generation grows and another ceases.",
+      "Book 9 - Glory or long life": "My mother, Thetis of the silver feet, tells me that there are\ntwo spectres carrying me towards the end of death:if I remain here and fight around the city of the Trojans,\nI shall lose my homecoming, but my fame will never die,\nwhile if I go back home to my dear native land,\nmy noble fame will be lost, but my life will be long,\nand the end of death will not come quickly upon me.",
+      "Book 21 - Moaning about death": "So, my friend, you too must die; why lament like this?\nEven Patroclus is dead, who was a far better man than you.\nCan you not see what kind of a man I am, how handsome and great?\nI am the son of a well-born man, and the mother who bore me was\na goddess, and yet over me too hangs death and my harsh destiny."
     }
   }
 }
