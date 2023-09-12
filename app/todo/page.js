@@ -7,6 +7,11 @@ export default async function Todo() {
       <Link href="/">Go Home</Link>
       <h2>Future Todos</h2>
       <ul>
+        <li>Update summaries</li>
+        <li>Style buttons better</li>
+        <li>Better compare styling</li>
+        <li>Better homepage structure</li>
+        <li>Better detail page structure</li>
         <li>Pull popular details and comparisons from PostHog in JSON</li>
         <ul>
           <li>Pageviews</li>

@@ -52,7 +52,7 @@ export default async function Home() {
         </ul>
         <h2>Further reading</h2>
         <ul>
-          <li><Link href="http://johnstoniatexts.x10host.com/homer/homertranslations.html">A site with a full list of Iliad translations.</Link></li>
+          <li><Link href="http://johnstoniatexts.x10host.com/homer/homertranslations.html">A full list of Iliad translations.</Link></li>
           <li><Link href="http://johnstoniatexts.x10host.com/homer/iliadessay8html.html">Commentary from Ian Johnston on Iliad translations</Link></li>
         </ul>
         <p><Link href="https://github.com/ivanagas/iliadtranslations">Contribute or make a suggestion on GitHub</Link></p>
