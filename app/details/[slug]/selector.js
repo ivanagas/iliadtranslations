@@ -1,5 +1,4 @@
 'use client'
-import styles from './selector.module.css';
 import React, { useState } from 'react';
 
 export default function Selector(props) {
@@ -20,18 +19,18 @@ export default function Selector(props) {
 
   return (
     <div>
-      <div className={styles.buttonRow}>
+      <div className='mx-auto flex'>
         {passages.map((passage, index) => (
           <button
             key={index}
             onClick={() => handlePassageSelection(passage)}
-            className={selectedPassage === passage ? 'active' : ''}
+            className={selectedPassage === passage ? 'text-base ml-2 border-2 rounded-md border-red-900 p-1' : 'text-base ml-2 border-2 border-gray-300 hover:bg-gray-100 rounded-md p-1'}
           >
             {passage}
           </button>
         ))}
       </div>
-      <p>{formatPassage(translator.quotes[selectedPassage])}</p>
+      <p className='my-2'>{formatPassage(translator.quotes[selectedPassage])}</p>
     </div>
   )
 }

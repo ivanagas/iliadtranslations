@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         <PostHogPageview />
       </Suspense>
       <PHProvider>
-        <body className={`${openSans.className} container`}>{children}</body>
+        <body className={`${openSans.className} text-lg py-5`}>{children}</body>
       </PHProvider>
     </html>
   )

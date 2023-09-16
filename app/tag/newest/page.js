@@ -11,17 +11,22 @@ export default async function DetailsList() {
   const translators = Object.keys(data)
 
   return (
-    <div className="main">
-      <h1>Newest Iliad Translations</h1>
+    <div className="max-w-2xl mx-auto">
+      <h1 className='text-5xl my-5'>Newest Iliad Translations</h1>
       <p>Here is a list of the Iliad sorted newest to oldest. Remember that newer does not always mean better.</p>
-      <ul>
+      <ul className='my-3'>
         {translators.map((translator) => (
           <li key={translator}>
-            <Link href={`/details/${translator}`}>{data[translator].translator}</Link> - {data[translator].year}
+            <Link 
+              href={`/details/${translator}`}
+              className='underline hover:text-red-900'
+            >
+              {data[translator].translator}
+            </Link> - {data[translator].year}
           </li>
         ))}
       </ul>
-      <Link href="/">Home</Link>
+      <Link className='underline hover:text-red-900' href="/">Home</Link>
     </div>
   )
 }

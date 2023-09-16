@@ -12,16 +12,20 @@ export default async function ComparisonList() {
   const comparisonList = Object.keys(comparisons);
 
   return (
-    <div className="main">
-      <h1>Here is a list of every comparison</h1>
-      <ul>
+    <div className="max-w-2xl mx-auto">
+      <Link className='underline hover:text-red-900 my-3' href="/">Go Home</Link>
+      <h1 className='text-5xl my-5'>All Comparisons of Iliad Translations</h1>
+      <ul className='grid grid-cols-2'>
         {comparisonList.map((comparison) => (
           <li key={comparison}>
-            <Link href={`/compare/${comparison}`}>{comparisons[comparison].name}</Link>
+            <Link 
+              href={`/compare/${comparison}`}
+              className='underline hover:text-red-900'
+            >
+              {comparisons[comparison].name}</Link>
           </li>
         ))}
       </ul>
-      <Link href="/">Home</Link>
     </div>
   )
 }

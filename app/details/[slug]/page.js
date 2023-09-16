@@ -1,7 +1,6 @@
 import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
-import styles from './page.module.css'
 
 export default async function Details({ params }) {
   const { slug } = params
@@ -27,32 +26,52 @@ export default async function Details({ params }) {
   };
 
   return (
-    <div className="main">
-      <h1>{data.translator} Iliad Translation</h1>
-      <div className={styles.subtitle}>
+    <div className='max-w-2xl mx-auto'>
+      <h1 className='text-4xl my-5'>{data.translator} Iliad Translation</h1>
+      <div className='text-xl grid grid-cols-2'>
         <h2>Year: {data.year}</h2>
         <h2>Tags: {tagsString}</h2>
       </div>
-      <p>{data.description}</p>
-      <h2>Links:</h2>
+      <p className='my-3'>{data.description}</p>
+      <h2 className='text-xl'>Links:</h2>
       <ul>
         {Object.keys(data.links).map((link) => (
           <li key={link}>
-            <Link href={data.links[link]}>{link}</Link>
+            <Link 
+              href={data.links[link]}
+              className='underline hover:text-red-900'
+            >
+              {link}
+            </Link>
           </li>
         ))}
       </ul>
-      <h2>Passages:</h2>
+      <h2 className='text-3xl my-3'>Passages:</h2>
       <Selector data={data}></Selector>
-      <h2>Comparisons:</h2>
-      <ul>
+      <h2 className='text-3xl my-3'>Comparisons:</h2>
+      <ul className='grid grid-cols-2 mb-3'>
       {comparisonList.map((comparison) => (
         <li key={comparison}>
-          <Link href={`/compare/${comparison}`}>{removeVsName(comparisons[comparison].name, slug)}</Link>
+          <Link 
+            href={`/compare/${comparison}`}
+            className='underline hover:text-red-900' 
+          >
+            {removeVsName(comparisons[comparison].name, slug)}
+          </Link>
         </li>
       ))}
       </ul>
-      <Link href="/">Home</Link> - <Link href="/details">All translations</Link>
+      <Link 
+        className='underline hover:text-red-900' 
+        href="/"
+      >
+        Home
+      </Link> - <Link 
+        className='underline hover:text-red-900' 
+        href="/details"
+      >
+        All translations
+      </Link>
     </div>
   )
 }

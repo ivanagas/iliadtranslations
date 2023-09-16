@@ -1,9 +1,0 @@
-.subtitle {
-  display: flex;
-}
-
-.subtitle h2 {
-  flex: 1;
-  margin-right: 10px;
-  max-width: 37rem;
-}

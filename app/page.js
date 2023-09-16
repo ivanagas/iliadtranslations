@@ -1,6 +1,9 @@
 import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
+import { GFS_Neohellenic } from 'next/font/google'
+
+const neohellenic  = GFS_Neohellenic({ subsets: ['greek'], weight: '400' })
 
 export default async function Home() {
 
@@ -12,50 +15,55 @@ export default async function Home() {
 
   return (
     <div>
-      <div className='main'>
-        <h1>Iliad Translations</h1>
-        <p>The Iliad of Homer is an epic, ancient Greek poem. It is one of the oldest works of literature still read. It takes place near the end of the siege of Troy by the Greeks (also known as the Trojan War). The story depicts an argument between King Agamemnon and the great warrior Achilles, and the consequences of it on the ongoing war between Trojans and Greeks.</p>
-        <p>The Iliad has been translated 100s of times, so versions vary widely. Some are faithful to Homer&apos;s original Greek, others focus on readability. Some are in verse, others in prose. The experience of reading the Iliad can be dramatically different depending on the version you choose.</p>
+      <div className='max-w-2xl mx-auto'>
+        <h1 className={`${neohellenic.className} text-6xl my-5`}>Iliad Translations</h1>
+        <p className='mb-2'>The Iliad of Homer is an epic, ancient Greek poem. It is one of the oldest works of literature still read. It takes place near the end of the siege of Troy by the Greeks (also known as the Trojan War). The story depicts an argument between King Agamemnon and the great warrior Achilles, and the consequences of it on the ongoing war between Trojans and Greeks.</p>
+        <p className='mb-2'>The Iliad has been translated 100s of times, so versions vary widely. Some are faithful to Homer&apos;s original Greek, others focus on readability. Some are in verse, others in prose. The experience of reading the Iliad can be dramatically different depending on the version you choose.</p>
         <p>To help you make this choice, this site lists some of the most popular translations with a summary and passages to see which you like best.</p>
-        <h2>Compare Translations</h2>
+        <h2 className={`${neohellenic.className} text-5xl my-5`}>Compare Translations</h2>
       </div>
       <Selector data={translatorData}></Selector>
-      <div className='main'>
-        <h2>List of Individual Translations</h2>
-        <ul>
+      <div className='max-w-2xl mx-auto'>
+        <h2 className={`${neohellenic.className} text-5xl my-5`}>Individual Translations</h2>
+        <ul className='grid grid-cols-2'>
           {translators.map((translator) => (
             <li key={translator}>
-              <Link href={`/details/${translator}`}>{translatorData[translator].translator}</Link>
+              <Link 
+                href={`/details/${translator}`}
+                className='underline hover:text-red-900'
+              >
+                {translatorData[translator].translator}
+              </Link>
             </li>
           ))}
         </ul>
-        <p>
-          <Link href="/tag/free">
+        <p className='my-5'>
+          <Link className='underline hover:text-red-900' href="/tag/free">
             Free
-          </Link> - <Link href="/tag/oldest">
+          </Link> - <Link className='underline hover:text-red-900' href="/tag/oldest">
             Oldest
-          </Link> - <Link href="/tag/newest">
+          </Link> - <Link className='underline hover:text-red-900' href="/tag/newest">
             Newest
-          </Link> - <Link href="/tag/prose">
+          </Link> - <Link className='underline hover:text-red-900' href="/tag/prose">
             Prose
-          </Link> - <Link href="/tag/verse">
+          </Link> - <Link className='underline hover:text-red-900' href="/tag/verse">
             Verse
           </Link>
         </p>
-        <h2>List of Comparisons</h2>
-        <ul>
+        <h2 className={`${neohellenic.className} text-5xl my-5`}>Comparisons</h2>
+        <ul className='grid grid-cols-2'>
           {comparisonsList.map((comparison) => (
             <li key={comparison}>
-              <Link href={`/compare/${comparison}`}>{comparisonData[comparison].name}</Link>
+              <Link className='underline hover:text-red-900' href={`/compare/${comparison}`}>{comparisonData[comparison].name}</Link>
             </li>
           ))}
         </ul>
-        <h2>Further reading</h2>
+        <h2 className={`${neohellenic.className} text-5xl my-5`}>Further Reading</h2>
         <ul>
-          <li><Link href="http://johnstoniatexts.x10host.com/homer/homertranslations.html">A full list of Iliad translations.</Link></li>
-          <li><Link href="http://johnstoniatexts.x10host.com/homer/iliadessay8html.html">Commentary from Ian Johnston on Iliad translations</Link></li>
+          <li><Link className='underline hover:text-red-900' href="http://johnstoniatexts.x10host.com/homer/homertranslations.html">A full list of Iliad translations.</Link></li>
+          <li><Link className='underline hover:text-red-900' href="http://johnstoniatexts.x10host.com/homer/iliadessay8html.html">Commentary from Ian Johnston on Iliad translations</Link></li>
         </ul>
-        <p><Link href="https://github.com/ivanagas/iliadtranslations">Contribute or make a suggestion on GitHub</Link></p>
+        <p><Link className='underline hover:text-red-900' href="https://github.com/ivanagas/iliadtranslations">Contribute or make a suggestion on GitHub</Link></p>
       </div>
     </div>
   )

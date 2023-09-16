@@ -1,5 +1,4 @@
 'use client'
-import styles from './selector.module.css';
 import React, { useState } from 'react';
 
 export default function Selector(props) {
@@ -35,29 +34,40 @@ export default function Selector(props) {
 
   return (
     <div>
-      <div className={styles.buttonRow}>
+      <div className='max-w-2xl mx-auto flex'>
         {passages.map((passage, index) => (
           <button
             key={index}
             onClick={() => handlePassageSelection(passage)}
-            className={selectedPassage === passage ? 'active' : ''}
+            className={selectedPassage === passage ? 'text-base ml-2 border-2 rounded-md border-red-900 p-1' : 'text-base ml-2 border-2 border-gray-300 hover:bg-gray-100 rounded-md p-1'}
           >
             {passage}
           </button>
         ))}
       </div>
       <br/>
-      <div className={styles.passageContent}>
-        <div>
-          <select onChange={(e) => setTranslator1(props.data[e.target.value])}>
+      <div className='flex justify-center space-x-3 ms-5'>
+        <div className='max-w-2xl'>
+          <select 
+            onChange={(e) => setTranslator1(props.data[e.target.value])}
+            className="text-2xl border-2 border-gray-300 hover:bg-gray-100 rounded-md my-2"
+          >
             {Object.keys(translators).map((translator, index) => (
-              <option key={index} value={translator}>{translators[translator]}</option>
+              <option 
+                key={index} 
+                value={translator}
+              >
+                {translators[translator]}
+              </option>
             ))}
           </select>
           <p>{formatPassage(t1.quotes[selectedPassage])}</p>
         </div>
-        <div>
-          <select onChange={(e) => setTranslator2(props.data[e.target.value])}>
+        <div className='max-w-2xl justify-center'>
+          <select 
+            onChange={(e) => setTranslator2(props.data[e.target.value])}
+            className='text-2xl border-2 border-gray-300 hover:bg-gray-100 rounded-md my-2'
+          >
             {Object.keys(translators).map((translator, index) => (
               <option key={index} value={translator}>{translators[translator]}</option>
             ))}

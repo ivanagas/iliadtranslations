@@ -15,29 +15,34 @@ export default async function Comparisons({ params }) {
 
   return (
     <div>
-      <div className="main">
-        <h1>{t1.translator} vs {t2.translator} Iliad Translation Comparison</h1>
-        <h2>Years: {t1.year} and {t2.year}</h2>
+      <div className="max-w-2xl mx-auto">
+        <h1 className='text-4xl my-5'>{t1.translator} vs {t2.translator} Iliad Translation Comparison</h1>
+        <h2 className='text-xl mb-3'>Years: {t1.year} and {t2.year}</h2>
         <p>{comparison.description}</p>
-        
-        <h2>Passage comparison</h2>
+        <h2 className='text-3xl my-3'>Passage comparison</h2>
       </div>
       <Selector data={translators}></Selector>
-      <div className="main">
-        <h2>Details</h2>
+      <div className="max-w-2xl mx-auto">
+        <h2 className='text-3xl my-3'>Details</h2>
         <ul>
           <li>
-            <Link href={`/details/${Object.keys(translators)[0]}`}>
+            <Link 
+              href={`/details/${Object.keys(translators)[0]}`}
+              className='underline hover:text-red-900'
+            >
               {t1.translator}
             </Link>
           </li>
           <li>
-            <Link href={`/details/${Object.keys(translators)[1]}`}>
+            <Link 
+              href={`/details/${Object.keys(translators)[1]}`}
+              className='underline hover:text-red-900'
+            >
               {t2.translator}
             </Link>
           </li>
         </ul>
-        <Link href="/">Home</Link> - <Link href="/compare">All comparions</Link>
+        <Link className='underline hover:text-red-900' href="/">Go Home</Link> - <Link className='underline hover:text-red-900' href="/compare">All comparions</Link>
       </div>
     </div>
   )
