@@ -42,7 +42,7 @@ export default async function Comparisons({ params }) {
             </Link>
           </li>
         </ul>
-        <Link className='underline hover:text-red-900' href="/">Go Home</Link> - <Link className='underline hover:text-red-900' href="/compare">All comparions</Link>
+        <Link className='underline hover:text-red-900' href="/">Go Home</Link> - <Link className='underline hover:text-red-900' href="/compare">All Comparions</Link>
       </div>
     </div>
   )

@@ -30,7 +30,17 @@ export default async function Details({ params }) {
       <h1 className='text-4xl my-5'>{data.translator} Iliad Translation</h1>
       <div className='text-xl grid grid-cols-2'>
         <h2>Year: {data.year}</h2>
-        <h2>Tags: {tagsString}</h2>
+        <h2>Tags: {data.tags.map((tag, index) => (
+          <span key={index}>
+            <Link
+              href={`/tag/${tag}`}
+              className='underline hover:text-red-900'
+            >
+              {tag}
+            </Link>
+            {index !== data.tags.length - 1 && ', '}
+          </span>
+        ))}</h2>
       </div>
       <p className='my-3'>{data.description}</p>
       <h2 className='text-xl'>Links:</h2>
@@ -65,12 +75,12 @@ export default async function Details({ params }) {
         className='underline hover:text-red-900' 
         href="/"
       >
-        Home
+        Go Home
       </Link> - <Link 
         className='underline hover:text-red-900' 
         href="/details"
       >
-        All translations
+        All Translations
       </Link>
     </div>
   )
