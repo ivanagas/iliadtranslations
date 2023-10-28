@@ -28,7 +28,7 @@ source env/bin/activate
 
 1. Activate virtual environment
 2. Update `add_translation.py` with new translator name.
-3. Run `python add_translation.py`
+3. Run `python add_translator.py`
 4. Check that no unintended changes were made.
 5. Add quotes by searching:
   - Book 1, intro
@@ -37,6 +37,6 @@ source env/bin/activate
   - Book 9, Thetis, fate, glory
   - Book 21, Patroclus
 6. Update date, links
-7. Run `generate_comparisons.py`
+7. Run `python generate_comparisons.py`
 8. Check that no unintended changes were made.
 9. Commit changes.

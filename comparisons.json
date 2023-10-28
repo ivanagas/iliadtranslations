@@ -51,6 +51,10 @@
     "name": "Fagles vs Johnston",
     "description": "Fagles' translation of the Iliad is poetic and majestic, highlighting the emotional depth of the characters and capturing the grandeur of the epic, while Johnston's translation is more straightforward and faithful to the original text, focusing on clarity and precision."
   },
+  "fagles-vs-wilson": {
+    "name": "Fagles vs Wilson",
+    "description": "Fagles' translation of the Iliad captivates readers with its poetic richness and accessibility, while Wilson's translation offers a refreshing and feminist perspective, highlighting the agency and voices of female characters."
+  },
   "lattimore-vs-lombardo": {
     "name": "Lattimore vs Lombardo",
     "description": "Lombardo's translation of the Iliad is more accessible and engaging, while Lattimore's is more faithful to the original Greek."
@@ -99,6 +103,10 @@
     "name": "Lattimore vs Johnston",
     "description": "Lattimore's translation of the Iliad stays faithful to the original ancient Greek text, offering a poetic and meticulous rendition, while Johnston's translation is more accessible and contemporary, employing simpler language and a fluid narrative style."
   },
+  "lattimore-vs-wilson": {
+    "name": "Lattimore vs Wilson",
+    "description": "Lattimore's translation of the Iliad maintains a more traditional and formal style, emphasizing the poem's epic nature, while Wilson's translation offers a more contemporary and accessible approach, focusing on the emotional depth and human aspects of the story."
+  },
   "lombardo-vs-butler": {
     "name": "Lombardo vs Butler",
     "description": "Lombardo's translation of the Iliad emphasizes the poem's action and vividness, while Butler's translation emphasizes its clarity and musicality."
@@ -143,6 +151,10 @@
     "name": "Lombardo vs Johnston",
     "description": "Lombardo's translation of the Iliad is known for its poetic and accessible language, offering a contemporary feel to the ancient epic, while Johnston's translation captures the essence and spirit of Homer's original text, delivering a faithful and scholarly rendition."
   },
+  "lombardo-vs-wilson": {
+    "name": "Lombardo vs Wilson",
+    "description": "Lombardo's translation of the Iliad is known for its raw and gritty rendering, capturing the intensity of the epic battles, while Wilson's translation is celebrated for its poetic beauty and lyrical language that brings the emotional depth and human drama to the forefront."
+  },
   "butler-vs-chapman": {
     "name": "Butler vs Chapman",
     "description": "Butler's Iliad translation is more modern and easier to read than Chapman's, but Chapman's is more poetic and captures the epic feel of the original."
@@ -183,6 +195,10 @@
     "name": "Butler vs Johnston",
     "description": "Butler's translation of the Iliad presents a more straightforward and accessible rendering of Homer's epic, while Johnston's translation delves deeper into the poetic nuances and retains a more faithful adherence to the original Greek text."
   },
+  "butler-vs-wilson": {
+    "name": "Butler vs Wilson",
+    "description": "Both Butler and Wilson offer accessible translations of the Iliad, with Butler maintaining a more traditional and poetic language, while Wilson provides a contemporary and colloquial style that captures the emotional intensity of the original text."
+  },
   "chapman-vs-pope": {
     "name": "Chapman vs Pope",
     "description": "Chapman's translation of the Iliad is more faithful to the original Greek text while Pope's translation is more poetic and refined."
@@ -219,6 +235,10 @@
     "name": "Chapman vs Johnston",
     "description": "Chapman's translation of the Iliad embodies a more romantic and vibrant interpretation, while Johnston's version exhibits a more concise and straightforward approach, both capturing the essence of Homer's epic in their own unique ways."
   },
+  "chapman-vs-wilson": {
+    "name": "Chapman vs Wilson",
+    "description": "Chapman's translation of the Iliad is characterized by its poetic and archaic language, capturing the epic feel of the original, while Wilson's translation is more accessible and contemporary, focusing on the emotional depth and psychological complexity of the characters."
+  },
   "pope-vs-rieu": {
     "name": "Pope vs Rieu",
     "description": "Pope's translation of the Iliad is more ornate and poetic, while Rieu's translation is more accessible and closely adheres to the original Greek."
@@ -251,6 +271,10 @@
     "name": "Pope vs Johnston",
     "description": "Pope's translation of the Iliad captures the epic nature of Homer's work through its grandiose and elaborate language, while Johnston's translation focuses on maintaining the poetic rhythm and emotional depth of the original Ancient Greek text."
   },
+  "pope-vs-wilson": {
+    "name": "Pope vs Wilson",
+    "description": "Pope's translation of the Iliad offers a grand and elevated interpretation, emphasizing heroic exploits and captivating the reader with its poetic elegance, while Wilson's translation seeks to capture the raw emotional depth and human complexity of the characters, presenting a more accessible and contemporary version of Homer's epic."
+  },
   "rieu-vs-mitchell": {
     "name": "Rieu vs Mitchell",
     "description": "Rieu's translation of the Iliad emphasizes a more formal and traditional narrative, while Mitchell's translation adopts a more contemporary and lively style."
@@ -279,6 +303,10 @@
     "name": "Rieu vs Johnston",
     "description": "Rieu's translation of the Iliad is known for its smooth and accessible language, making it ideal for a general reader, whereas Johnston's translation emphasizes the rhythmic and poetic qualities of the original Greek, appealing to those who appreciate a more poetic rendering."
   },
+  "rieu-vs-wilson": {
+    "name": "Rieu vs Wilson",
+    "description": "Rieu's translation of the Iliad leans towards a more traditional and formal style, while Wilson's translation captures a modern and colloquial voice, offering distinct interpretations of Homer's epic."
+  },
   "mitchell-vs-fitzgerald": {
     "name": "Mitchell vs Fitzgerald",
     "description": "While Mitchell's translation of the Iliad resonates with a modern audience, Fitzgerald's translation captures the beauty and grandeur of Homer's original text."
@@ -303,6 +331,10 @@
     "name": "Mitchell vs Johnston",
     "description": "Mitchell's translation of the Iliad captures the vivid and emotional aspects of the epic, while Johnston's translation focuses more on maintaining the poem's rhythm and meter."
   },
+  "mitchell-vs-wilson": {
+    "name": "Mitchell vs Wilson",
+    "description": "Mitchell's translation of the Iliad is known for its poetic and accessible language, while Wilson's translation focuses more on capturing the nuances of the original Greek text, making it a more faithful and scholarly rendition."
+  },
   "fitzgerald-vs-alexander": {
     "name": "Fitzgerald vs Alexander",
     "description": "Fitzgerald's translation of the Iliad captures the poetic grandeur and emotional depth of Homer's epic, while Alexander's translation presents a more straightforward and accessible interpretation that stays true to the original text."
@@ -323,6 +355,10 @@
     "name": "Fitzgerald vs Johnston",
     "description": "Fitzgerald's translation of the Iliad captures the epic's emotional intensity with its lyrical and poetic language, while Johnston's translation offers a more direct and accessible rendition that prioritizes clarity and narrative flow."
   },
+  "fitzgerald-vs-wilson": {
+    "name": "Fitzgerald vs Wilson",
+    "description": "Fitzgerald's translation of the Iliad captures the epic's grandeur and poetic brilliance, while Wilson's translation offers a fresh and accessible take that brings out the humanity and emotional depth of the characters."
+  },
   "alexander-vs-murray": {
     "name": "Alexander vs Murray",
     "description": "Alexander's translation of the Iliad is known for its poetic and musical quality, capturing the emotional depth of the original Greek text, while Murray's translation focuses on conveying the narrative and action of the epic in a more accessible and readable manner."
@@ -339,6 +375,10 @@
     "name": "Alexander vs Johnston",
     "description": "Alexander's translation of the Iliad captures the grandeur and poetic rhythm of Homer's original, while Johnston's rendition is more accessible and reader-friendly, focusing on clarity and directness."
   },
+  "alexander-vs-wilson": {
+    "name": "Alexander vs Wilson",
+    "description": "While Alexander's translation of the Iliad retains the epic's traditional poetic structure, Wilson's version offers a more accessible and contemporary reading experience, exploring the nuances of character and emotion."
+  },
   "murray-vs-green": {
     "name": "Murray vs Green",
     "description": "Murray's translation of the Iliad captures the epic's grandeur and power with a more traditional style, while Green's translation offers a modern and accessible rendition that highlights the emotional depth and ambiguity of the characters."
@@ -351,6 +391,10 @@
     "name": "Murray vs Johnston",
     "description": "Murray's translation of the Iliad captures the grandeur and poeticity of Homer's epic, while Johnston's translation offers a more accessible and contemporary version without compromising the essence of the story."
   },
+  "murray-vs-wilson": {
+    "name": "Murray vs Wilson",
+    "description": "Murray's translation of the Iliad adheres closely to the original text, maintaining a formal and traditional style, while Wilson's translation offers a contemporary and accessible rendering, incorporating a more modernized and colloquial language."
+  },
   "green-vs-verity": {
     "name": "Green vs Verity",
     "description": "Green's translation of the Iliad captures the epic's grandeur and intense emotions, while Verity's translation aims for clarity and accessibility without compromising on the poetic essence of the original text."
@@ -359,8 +403,20 @@
     "name": "Green vs Johnston",
     "description": "Green's translation of the Iliad captures the epic grandeur with its poetic language, while Johnston's translation offers a more accessible and modern approach, aiming to bring the story closer to contemporary readers."
   },
+  "green-vs-wilson": {
+    "name": "Green vs Wilson",
+    "description": "Green's translation of the Iliad captures the epic's heroic tone and uses a more traditional style, while Wilson's translation offers a contemporary approach with more accessible language and a focus on the emotional depth of the characters."
+  },
   "verity-vs-johnston": {
     "name": "Verity vs Johnston",
     "description": "Verity's translation of the Iliad captures the poetic beauty and emotional intensity of Homer's epic, while Johnston's translation offers a more contemporary and accessible interpretation that focuses on the narrative flow and dramatic elements of the story."
+  },
+  "verity-vs-wilson": {
+    "name": "Verity vs Wilson",
+    "description": "Verity's translation of the Iliad presents a faithful and nuanced rendition of the original Greek text, while Wilson's translation offers a fresh and accessible interpretation that captures the power and emotion of the epic."
+  },
+  "johnston-vs-wilson": {
+    "name": "Johnston vs Wilson",
+    "description": "Johnston's translation of the Iliad is characterized by a clear and accessible language, allowing readers to easily engage with the complex plot and characters, while Wilson's translation captures the epic's emotional depth and rich poetic beauty, bringing to life the intensity of the Trojan War and the timeless themes of honor and heroism."
   }
 }

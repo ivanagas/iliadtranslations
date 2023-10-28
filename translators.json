@@ -267,5 +267,23 @@
       "Book 9 - Glory or long life": "My goddess mother, silver-footed Thetis,\nhas said two fates may bring about my death.\nIf I remain here, continuing the fight\nagainst the Trojans\u2019 city, that means\nI won\u2019t be going home, but my glory\nwill never die. But if I go back home,\nmy fame will die, although my life will last\na long time\u2014death will not end it quickly.",
       "Book 21 - Moaning about death": "So now, my friend,\nyou too must die. Why be sad about it?\nPatroclus died, a better man than you.\nAnd look at me. You see how fine I am,\nhow tall, how handsome? My father\u2019s a fine man,\nthe mother who gave birth to me a goddess.\nYet over me, as well, hangs Fate\u2014my death."
     }
+  },
+  "wilson": {
+    "translator": "Emily Wilson",
+    "year": 2023,
+    "tags": [
+      "verse"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-Homer/dp/1324001801"
+    },
+    "description": "The Emily Wilson translation of the Iliad brings a fresh and accessible perspective to the ancient epic, combining a beautifully rendered contemporary English language with a nuanced understanding of the original text.",
+    "quotes": {
+      "Book 1 - Intro": "Goddess, sing of the cataclysmic wrath\nof great Achilles, son of Peleus,\nwhich caused the Greeks immeasurable pain\nand sent so many noble souls of heroes\nto Hades, and made men the spoils of dogs,\na banquet for the birds, and so the plan\nof Zeus unfolded\u2014starting with the conflict\nbetween great Agamemnon, lord of men,\nand glorious Achilles.",
+      "Book 5 - Athena encourages Diomedes": "Divine Athena with her shining eyes\nsaid, \u201cDiomedes, son of Tydeus,\ndear to my heart, do not be scared of Ares,\nnor any of the other deathless gods,\nbecause I will be there to keep you safe.\nCome on now, drive your horse straight at Ares,\nand strike him close at hand. Do not hold back\nfrom that shapeshifter. He was made for trouble\u2014\nviolent, and aggressive, and insane.\nHe promised me and Hera earlier\nthat he would help the Greeks and fight the Trojans.\nBut now he is colluding with the Trojans\nand has forgotten all about the Greeks.\"",
+      "Book 6 - Leaves": "The generations\nof men are like the growth and fall of leaves\nThe wind shakes some to earth. The forest sprouts\nnew foliage, and springtime comes. So too,\none human generation comes to be,\nanother ends.",
+      "Book 9 - Glory or long life": "My silver-footed goddess mother Thetis\nsays that there are two ways my death may come.\nIf I stay here and fight, besieging Troy,\nmy chance of ever going home is lost,\nbut I shall have a name that lasts forever.\nOr if I go home to my own dear country,\nI lose my glory but I gain long life.\nDeath cannot run so fast to overtake me.",
+      "Book 21 - Moaning about death": "So die, my friend. Why are you so upset?\nPatroclus has already died as well,\nand he was far superior to you.\nDo you not see how tall and fine I am?\nMy father was a noble, handsome man,\nmy mother was a goddess. Even so,\ndeath and strong destiny will come for me."
+    }
   }
 }
