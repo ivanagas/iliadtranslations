@@ -298,10 +298,28 @@
     "description": "The Rodney Merrill translation of the Iliad maintains the epic's poetic essence while producing a crisp and accessible rendition that captivates readers.",
     "quotes": {
       "Book 1 - Intro": "Sing now, goddess, the wrath of Achilles the scion of Peleus,\nruinous rage which brought the Achaians uncounted afflictions;\nmany the powerful souls it sent to the dwelling of Hades,\nthose of the heroes, and spoil for the dogs it made of their bodies,\nplunder for all of the birds, and the purpose of Zeus was accomplished\u2014\nsing from the time when first stood hostile, starting the conflict,\nAtreus' scion, the lord of the people, and noble Achilles.",
-      "Book 5 - Athena encourages Diomedes": "Speaking to him then answered the goddess bright-eyed Athena:\n\"Tydeus' son Diomédes, in whom my heart is delighted,\nneither should you fear Ares in this way, nor any other\ndeathless god\u2014so am I now to you a supporter and helper.\nBut come, straightway at Ares direct your single-hoofed horses,\nstrike at close range and do not be in awe of impetuous Ares\nthus rampaging, perfected in evil, a treacherous turncoat,\nwho just recently speaking to me and to Hera declared that\nhe would battle the Trojans and give his support to the Argives;\nnow he consorts with the Trojans; the promises he has forgotten.\"",
+      "Book 5 - Athena encourages Diomedes": "Speaking to him then answered the goddess bright-eyed Athena:\n\"Tydeus' son Diom\u00e9des, in whom my heart is delighted,\nneither should you fear Ares in this way, nor any other\ndeathless god\u2014so am I now to you a supporter and helper.\nBut come, straightway at Ares direct your single-hoofed horses,\nstrike at close range and do not be in awe of impetuous Ares\nthus rampaging, perfected in evil, a treacherous turncoat,\nwho just recently speaking to me and to Hera declared that\nhe would battle the Trojans and give his support to the Argives;\nnow he consorts with the Trojans; the promises he has forgotten.\"",
       "Book 6 - Leaves": "Like generations of leaves are those of humanity also.\nJust as a wind pours some leaves groundward, and others the forest,\nburgeoning, sprouts at the coming of springtime, so in the same way\none generation of men grows up as another is fading.",
       "Book 9 - Glory or long life": "For my own mother, the goddess Thetis of silvery feet, has\ntold me that twofold fates to my death's finality bear me:\nshould I remain here fighting against this city of Trojans,\nlost is my homeward return, but never will perish my glory;\nshould I return back home to the much-loved land of my fathers,\nlost is my excellent glory, but then long years of a lifetime\nI will enjoy, nor will death's finality come to me quickly.",
       "Book 21 - Moaning about death": "No, friend, you die also\u2014and why in this way are you moaning?\nEven Patroklos has perished, a man far better than you are.\nDo you not see what a man I am, how handsome and mighty,\nsprung of an excellent father, a goddess the mother who bore me?\nYet over me also hangs death, irresistible doomsday."
+    }
+  },
+  "reck": {
+    "translator": "Michael Reck",
+    "year": 1994,
+    "tags": [
+      "verse"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Homer-Iliad/dp/0064303985"
+    },
+    "description": "The Michael Reck translation of the Iliad captures the timeless beauty and epic intensity of Homer's masterpiece with a masterful balance between faithfulness to the original Greek text and accessibility to modern readers.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, Goddess, Achilles' maniac rage:\nruinous thing! it roused a thousand sorrows\nand hurled many souls of mighty warriors\nto Hades, made their bodies food for dogs\nand carrion birds\u2014as Zeus's will foredoomed\u2014\nfrom the time relentless strife came between\nAtreus' son, a king, and brave Achilles.",
+      "Book 5 - Athena encourages Diomedes": "And that goddess green-eyed Athena cried:\n\"Tydeus' son Diomedes, my dear man,\ndo not fear Ares or any other\nimmortals, I'll stay so close beside you.\nDrive your glorious horses straight toward Ares\nand run him through! You're a match for Ares,\nthat crook, that lunatic, that renegade\nwho was just promising Hera and me\nto back our Achaean armies, but see\nwhat that double-crosser did to us now!\"",
+      "Book 6 - Leaves": "Men are like the generations of leaves:\nwind spins them to the ground, but the forest\nbrings new ones forth again when springtime comes\u2014\nthus men's generations are born and die.",
+      "Book 9 - Glory or long life": "My mother silverfoot Thetis tells me\ntwo separate fates are leading me toward death:\nif I stay here and continue combat\nI won't go back but have undying fame,\nwhile if I return to my dear homeland\nI can live in decent obscurity\ntill I die in the fullness of my time.",
+      "Book 21 - Moaning about death": "Yes, my friend, you perish too\u2014why whimper?\nDeath took Patroclus, a far better man.\nAnd you see how handsome and tall I am?\nMy parents were a king and a goddess,\nbut I am doomed to die as well as you:\nsome morning or evening or afternoon\nmy life shall be taken in battle too\nby a spear or an arrow from the string.\""
     }
   }
 }

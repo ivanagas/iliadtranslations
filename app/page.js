@@ -62,6 +62,7 @@ export default async function Home() {
         <ul>
           <li><Link className='underline hover:text-red-900' href="http://johnstoniatexts.x10host.com/homer/homertranslations.html">A full list of Iliad translations.</Link></li>
           <li><Link className='underline hover:text-red-900' href="http://johnstoniatexts.x10host.com/homer/iliadessay8html.html">Commentary from Ian Johnston on Iliad translations</Link></li>
+          <li><Link className='underline hover:text-red-900' href="https://www.reddit.com/r/classics/comments/l7yl6h/every_modern_iliad_translation_compared/">Reddit thread comparing modern translations</Link></li>
         </ul>
         <p><Link className='underline hover:text-red-900' href="https://github.com/ivanagas/iliadtranslations">Contribute or make a suggestion on GitHub</Link></p>
       </div>
