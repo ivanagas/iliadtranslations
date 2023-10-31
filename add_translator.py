@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 import openai
 
-name = "A. T. Murray"
+name = "Michael Reck"
 
 with open('translators.json', 'r+') as file:
   data = json.load(file)
@@ -15,11 +15,6 @@ with open('translators.json', 'r+') as file:
   if name_key in data:
     print(f"Entry for {name} already exists.")
     sys.exit(0)
-  
-  # Save the old data
-  with open('old_translators.json', 'w') as outfile:
-    json.dump(data, outfile)
-    print('old data saved')
 
   # Generate description
   load_dotenv()
