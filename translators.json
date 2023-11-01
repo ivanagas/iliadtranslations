@@ -319,7 +319,25 @@
       "Book 5 - Athena encourages Diomedes": "And that goddess green-eyed Athena cried:\n\"Tydeus' son Diomedes, my dear man,\ndo not fear Ares or any other\nimmortals, I'll stay so close beside you.\nDrive your glorious horses straight toward Ares\nand run him through! You're a match for Ares,\nthat crook, that lunatic, that renegade\nwho was just promising Hera and me\nto back our Achaean armies, but see\nwhat that double-crosser did to us now!\"",
       "Book 6 - Leaves": "Men are like the generations of leaves:\nwind spins them to the ground, but the forest\nbrings new ones forth again when springtime comes\u2014\nthus men's generations are born and die.",
       "Book 9 - Glory or long life": "My mother silverfoot Thetis tells me\ntwo separate fates are leading me toward death:\nif I stay here and continue combat\nI won't go back but have undying fame,\nwhile if I return to my dear homeland\nI can live in decent obscurity\ntill I die in the fullness of my time.",
-      "Book 21 - Moaning about death": "Yes, my friend, you perish too\u2014why whimper?\nDeath took Patroclus, a far better man.\nAnd you see how handsome and tall I am?\nMy parents were a king and a goddess,\nbut I am doomed to die as well as you:\nsome morning or evening or afternoon\nmy life shall be taken in battle too\nby a spear or an arrow from the string.\""
+      "Book 21 - Moaning about death": "Yes, my friend, you perish too\u2014why whimper?\nDeath took Patroclus, a far better man.\nAnd you see how handsome and tall I am?\nMy parents were a king and a goddess,\nbut I am doomed to die as well as you:\nsome morning or evening or afternoon\nmy life shall be taken in battle too\nby a spear or an arrow from the string."
+    }
+  },
+  "jordan": {
+    "translator": "Herbert Jordan",
+    "year": 2008,
+    "tags": [
+      "verse"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-Homer/dp/0806139749"
+    },
+    "description": "The Herbert Jordan translation of the Iliad is a poetic and captivating rendition that brings the timeless epic to life with its lyrical language and faithfulness to the original text.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, goddess, of Peleus' son Achilles' anger,\nruinous, that caused the Greeks untold ordeals,\nconsigned to Hades countless valiant souls,\nheroes, and left their bodies prey for dogs\nor feast for vultures. Zeus's will was done\nfrom when those two first quarreled and split apart,\nthe king, Agamemnon, and matchless Achilles.",
+      "Book 5 - Athena encourages Diomedes": "The gleaming-eyed goddess replied to him:\n\"You please me, Diomedes, Tydeus' son,\nso you need have no fear of Ares or any\nimmortal because I will be at your side.\nCome now, drive your horses toward Ares.\nStrike without scruple or respect for him\u2014\na frenzied two-faced pest since he was born.\nJust recently he promised Hera and me\nto fight against Trojans, sparing the Greeks,\nbut now he has forgotten and sides with Troy.\"",
+      "Book 6 - Leaves": "Clans of men are like foliage on trees.\nWind scatters leaves on the ground, yet the forest\nprospers and leafs again when spring returns.\nIn like manner the stock of men survives.",
+      "Book 9 - Glory or long life": "My mother, the goddess Thetis, told me\nthat fate offers me two pathways to death:\nif I stay and fight around the Trojan city,\nI will die soon but my fame will never die,\nyet if I return home to my fatherland\nI will forfeit glory, but gain long life\nand not encounter death till many years pass.",
+      "Book 21 - Moaning about death": "So you die too, my friend, but why complain?\nA better man than you has died, Patroclus,\nand do you not see my own splendor, my size?\nMy father is noble, my mother a goddess,\nbut dogged fate and death await me too.\nOne day, whether at dawn or noon or dusk,\nsome warrior's weapon will take even my life\u2014\na flying spear or arrow loosed from his string."
     }
   }
 }
