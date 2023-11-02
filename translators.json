@@ -339,5 +339,23 @@
       "Book 9 - Glory or long life": "My mother, the goddess Thetis, told me\nthat fate offers me two pathways to death:\nif I stay and fight around the Trojan city,\nI will die soon but my fame will never die,\nyet if I return home to my fatherland\nI will forfeit glory, but gain long life\nand not encounter death till many years pass.",
       "Book 21 - Moaning about death": "So you die too, my friend, but why complain?\nA better man than you has died, Patroclus,\nand do you not see my own splendor, my size?\nMy father is noble, my mother a goddess,\nbut dogged fate and death await me too.\nOne day, whether at dawn or noon or dusk,\nsome warrior's weapon will take even my life\u2014\na flying spear or arrow loosed from his string."
     }
+  },
+  "rouse": {
+    "translator": "W. H. D. Rouse",
+    "year": 2007,
+    "tags": [
+      "prose"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Iliad-Homer/dp/0451530691"
+    },
+    "description": "The W. H. D. Rouse translation of the Iliad is a faithful and accessible rendition that captures the epic grandeur and emotional power of Homer's timeless tale.",
+    "quotes": {
+      "Book 1 - Intro": "An angry man\u2014There is my story: The bitter rancour of Achillês, prince of the house of Peleus, which brought a thousand troubles upon the Achaian host. Many a strong soul it sent down to Hadês, and left the heroes themselves a prey to dogs and carrion birds, while the will of God moved on to fulfilment.\n It began first of all with a quarrel between my lord King Agamemnon of Atreus' line and the Prince Achillês.",
+      "Book 5 - Athena encourages Diomedes": "Athena said:\n\"Diomedês, you are a man after my own heart. Don't be afraid of Arês or any other immortal! You shall see, I will be with you. Drive straight for Arês! Hit him hard; don't bow down to Arês, that mad furious creature, that graven image of wickedness, Mr. Facing-all-ways! Yes- terday he stood up in front of Hera and me and vowed he would fight the Trojans and help the Argives, and now he is on the Trojan side and forgets all about that!\"",
+      "Book 6 - Leaves": "The generations of men are like the leaves of the forest. Leaves fall when the breezes blow, in the springtime others grow; as they go and come agen so upon the earth do men.",
+      "Book 9 - Glory or long life": "My mother Thetis Silverfoot says, that two different fates are carrying me on the road to death. If I stay here and fight before the city of Troy, there will be no home- coming for me but my fame shall never die; if I go home to my native land, there will be no great fame for me, but I shall live long and not die an early death.",
+      "Book 21 - Moaning about death": "Come, my friend, die too; why do you cry like that? Patroclos died too, and he was a much better man than you. Don't you see me too, a fine big man? My father is a brave man, my mother is a goddess: yet I too have death and fate fast upon me. The day shall come, morning or evening or midday, when some one shall take my life too in battle, with a thrust of the spear or an arrow from the bow."
+    }
   }
 }

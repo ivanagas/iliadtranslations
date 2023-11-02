@@ -67,6 +67,10 @@
     "name": "Fagles vs Jordan",
     "description": "Fagles' translation of the Iliad captures the epic's dramatic and emotional intensity with vivid language, while Jordan's translation prioritizes a more formal and structured rendition, emphasizing the poetic elements and linguistic beauty of Homer's original."
   },
+  "fagles-vs-rouse": {
+    "name": "Fagles vs Rouse",
+    "description": "Fagles' translation of the Iliad captures the epic's beauty and emotional depth with its poetic language, while Rouse's translation offers a more accessible and straightforward rendition that focuses on the story's action and plot."
+  },
   "lattimore-vs-lombardo": {
     "name": "Lattimore vs Lombardo",
     "description": "Lombardo's translation of the Iliad is more accessible and engaging, while Lattimore's is more faithful to the original Greek."
@@ -131,6 +135,10 @@
     "name": "Lattimore vs Jordan",
     "description": "Lattimore's translation of the Iliad emphasizes accuracy and linguistic fidelity to the original Ancient Greek text, while Jordan's translation strives for a more accessible and engaging modern narrative, adding interpretative elements and explanatory notes."
   },
+  "lattimore-vs-rouse": {
+    "name": "Lattimore vs Rouse",
+    "description": "Lattimore's translation of the Iliad is renowned for its poetic and lyrical quality, faithfully capturing the essence of Homer's original work, while Rouse's translation focuses more on accessibility and readability, making it a good introduction for a modern reader."
+  },
   "lombardo-vs-butler": {
     "name": "Lombardo vs Butler",
     "description": "Lombardo's translation of the Iliad emphasizes the poem's action and vividness, while Butler's translation emphasizes its clarity and musicality."
@@ -191,6 +199,10 @@
     "name": "Lombardo vs Jordan",
     "description": "Lombardo's translation of the Iliad captures the raw emotion and intensity of the epic poem, prioritizing a more modern and accessible language, while Jordan's translation maintains a more faithful adherence to the original ancient Greek text, highlighting its lyrical and poetic qualities."
   },
+  "lombardo-vs-rouse": {
+    "name": "Lombardo vs Rouse",
+    "description": "Lombardo's translation of the Iliad is characterized by its poetic and lyrical language, capturing the essence of Homer's epic, while Rouse's translation focuses on clarity and accessibility, making it easier for readers to engage with the story."
+  },
   "butler-vs-chapman": {
     "name": "Butler vs Chapman",
     "description": "Butler's Iliad translation is more modern and easier to read than Chapman's, but Chapman's is more poetic and captures the epic feel of the original."
@@ -247,6 +259,10 @@
     "name": "Butler vs Jordan",
     "description": "Butler's translation of the Iliad captures the epic and dramatic tone of Homer's original, while Jordan's translation offers a more accessible and contemporary interpretation of the ancient Greek text."
   },
+  "butler-vs-rouse": {
+    "name": "Butler vs Rouse",
+    "description": "Butler's translation of the Iliad is more poetic and lyrical, capturing the essence of Homer's epic, while Rouse's translation is more straightforward and accessible, focusing on the narrative and action of the story."
+  },
   "chapman-vs-pope": {
     "name": "Chapman vs Pope",
     "description": "Chapman's translation of the Iliad is more faithful to the original Greek text while Pope's translation is more poetic and refined."
@@ -299,6 +315,10 @@
     "name": "Chapman vs Jordan",
     "description": "Chapman's translation of the Iliad is known for its poetic and grandiose language, capturing the epic scale of the story, while Jordan's translation offers a more modern and accessible interpretation, focusing on clarity and capturing the emotional depth of the characters."
   },
+  "chapman-vs-rouse": {
+    "name": "Chapman vs Rouse",
+    "description": "Chapman's translation of the Iliad is characterized by its poetic and grandiose language, while Rouse's translation is more straightforward and accessible to modern readers."
+  },
   "pope-vs-rieu": {
     "name": "Pope vs Rieu",
     "description": "Pope's translation of the Iliad is more ornate and poetic, while Rieu's translation is more accessible and closely adheres to the original Greek."
@@ -347,6 +367,10 @@
     "name": "Pope vs Jordan",
     "description": "Pope's translation of the Iliad is praised for its poetic and dramatic qualities, capturing the intensity of the epic tale, while Jordan's translation focuses more on the precision and accuracy of the original Greek text, providing a more scholarly rendition of the Iliad."
   },
+  "pope-vs-rouse": {
+    "name": "Pope vs Rouse",
+    "description": "Pope's translation of the Iliad is a grand and poetic rendition that captures the majestic beauty of Homer's epic, while Rouse's translation aims for accessibility and a more straightforward narrative style, making it more approachable for modern readers."
+  },
   "rieu-vs-mitchell": {
     "name": "Rieu vs Mitchell",
     "description": "Rieu's translation of the Iliad emphasizes a more formal and traditional narrative, while Mitchell's translation adopts a more contemporary and lively style."
@@ -391,6 +415,10 @@
     "name": "Rieu vs Jordan",
     "description": "Rieu's translation of the Iliad emphasizes readability and accessibility, making it ideal for those seeking a more approachable introduction to the epic, while Jordan's translation strives for poetic beauty and accuracy, appealing to readers who desire a more faithful rendering of Homer's original work."
   },
+  "rieu-vs-rouse": {
+    "name": "Rieu vs Rouse",
+    "description": "Rieu's translation of the Iliad captures the poetic beauty of Homer's original, while Rouse's translation focuses on a more accessible and straightforward rendering of the epic's narrative."
+  },
   "mitchell-vs-fitzgerald": {
     "name": "Mitchell vs Fitzgerald",
     "description": "While Mitchell's translation of the Iliad resonates with a modern audience, Fitzgerald's translation captures the beauty and grandeur of Homer's original text."
@@ -431,6 +459,10 @@
     "name": "Mitchell vs Jordan",
     "description": "Mitchell's translation of the Iliad is renowned for its accessibility and poetic style, while Jordan's translation offers a more literal rendering that focuses on preserving the original Greek language and structure."
   },
+  "mitchell-vs-rouse": {
+    "name": "Mitchell vs Rouse",
+    "description": "Mitchell's translation of the Iliad is known for its poetic and lyrical language, capturing the emotional depth of the characters and the epic nature of the story, while Rouse's translation focuses more on clear and accessible language, making the complex narrative easier to follow for modern readers."
+  },
   "fitzgerald-vs-alexander": {
     "name": "Fitzgerald vs Alexander",
     "description": "Fitzgerald's translation of the Iliad captures the poetic grandeur and emotional depth of Homer's epic, while Alexander's translation presents a more straightforward and accessible interpretation that stays true to the original text."
@@ -467,6 +499,10 @@
     "name": "Fitzgerald vs Jordan",
     "description": "Fitzgerald's translation of the Iliad captures the poetic beauty and emotional depth of Homer's epic, while Jordan's translation offers a more contemporary and accessible interpretation that focuses on the narrative flow and clarity of the text."
   },
+  "fitzgerald-vs-rouse": {
+    "name": "Fitzgerald vs Rouse",
+    "description": "Fitzgerald's translation of the Iliad weaves poetic language with a modern narrative style, capturing the emotional depth and complexity of Homer's epic, while Rouse's translation provides a more accessible and straightforward rendering, focusing on clarity and readability."
+  },
   "alexander-vs-murray": {
     "name": "Alexander vs Murray",
     "description": "Alexander's translation of the Iliad is known for its poetic and musical quality, capturing the emotional depth of the original Greek text, while Murray's translation focuses on conveying the narrative and action of the epic in a more accessible and readable manner."
@@ -499,6 +535,10 @@
     "name": "Alexander vs Jordan",
     "description": "The Alexander translation of the Iliad captures the poetic essence and narrative flow of Homer's epic, while the Jordan translation offers a more accessible and modern language without losing the depth and complexity of the original text."
   },
+  "alexander-vs-rouse": {
+    "name": "Alexander vs Rouse",
+    "description": "The Alexander translation of the Iliad captures the epic's poetic beauty and elegance, while Rouse's translation focuses on readability and accessibility, presenting the story in a more modern language."
+  },
   "murray-vs-green": {
     "name": "Murray vs Green",
     "description": "Murray's translation of the Iliad captures the epic's grandeur and power with a more traditional style, while Green's translation offers a modern and accessible rendition that highlights the emotional depth and ambiguity of the characters."
@@ -527,6 +567,10 @@
     "name": "Murray vs Jordan",
     "description": "The Murray translation of the Iliad captures the poetic beauty and grandeur of Homer's epic, while the Jordan translation focuses more on accessibility and modern language, allowing a wider range of readers to engage with the text."
   },
+  "murray-vs-rouse": {
+    "name": "Murray vs Rouse",
+    "description": "Murray's translation of the Iliad captures the grandeur and poetic beauty of Homer's epic, while Rouse's translation emphasizes accessibility and readability for modern readers without sacrificing the essence of the original text."
+  },
   "green-vs-verity": {
     "name": "Green vs Verity",
     "description": "Green's translation of the Iliad captures the epic's grandeur and intense emotions, while Verity's translation aims for clarity and accessibility without compromising on the poetic essence of the original text."
@@ -551,6 +595,10 @@
     "name": "Green vs Jordan",
     "description": "Green's translation of the Iliad captures the poetic and lyrical essence of Homer's original while maintaining a sense of accessibility for modern readers, while Jordan's translation focuses more on capturing the structure and rhythm of the epic, aiming for a more faithful representation of the source text."
   },
+  "green-vs-rouse": {
+    "name": "Green vs Rouse",
+    "description": "Green's translation of the Iliad captures the epic's poetic beauty and vivid imagery, while Rouse's translation focuses more on more accessible language and rhythmic prose, appealing to a wider audience."
+  },
   "verity-vs-johnston": {
     "name": "Verity vs Johnston",
     "description": "Verity's translation of the Iliad captures the poetic beauty and emotional intensity of Homer's epic, while Johnston's translation offers a more contemporary and accessible interpretation that focuses on the narrative flow and dramatic elements of the story."
@@ -571,6 +619,10 @@
     "name": "Verity vs Jordan",
     "description": "Verity's translation of the Iliad captures the vividness and intensity of the ancient Greek epic, while Jordan's translation maintains the poetic quality and emotional depth of the original text."
   },
+  "verity-vs-rouse": {
+    "name": "Verity vs Rouse",
+    "description": "Verity's translation of the Iliad is a faithful rendition that captures the essence and beauty of the original text, while Rouse's version provides a more accessible and modern interpretation that appeals to contemporary readers."
+  },
   "johnston-vs-wilson": {
     "name": "Johnston vs Wilson",
     "description": "Johnston's translation of the Iliad is characterized by a clear and accessible language, allowing readers to easily engage with the complex plot and characters, while Wilson's translation captures the epic's emotional depth and rich poetic beauty, bringing to life the intensity of the Trojan War and the timeless themes of honor and heroism."
@@ -587,6 +639,10 @@
     "name": "Johnston vs Jordan",
     "description": "Johnston's translation of the Iliad captures the poetic beauty and emotional depth of Homer's epic, while Jordan's translation strives for a more accessible and modernized retelling of the tragic Trojan War."
   },
+  "johnston-vs-rouse": {
+    "name": "Johnston vs Rouse",
+    "description": "Johnston's translation of the Iliad captures the essence of Homer's epic with its poetic language and rhythmic flow, while Rouse's translation focuses more on accessibility and readability for modern readers, sacrificing some of the original poetic nuances."
+  },
   "wilson-vs-merrill": {
     "name": "Wilson vs Merrill",
     "description": "Wilson's translation of the Iliad prioritizes a more contemporary and accessible language style, while Merrill's translation maintains a more lyrical and poetic essence of the original text."
@@ -599,6 +655,10 @@
     "name": "Wilson vs Jordan",
     "description": "Wilson's translation of the Iliad captures the epic's emotional depth and lyrical beauty, while Jordan's translation emphasizes the grandeur and heroic nature of the story."
   },
+  "wilson-vs-rouse": {
+    "name": "Wilson vs Rouse",
+    "description": "Wilson's translation of the Iliad offers a more modern and accessible interpretation, while Rouse's version maintains a more traditional and poetic tone."
+  },
   "merrill-vs-reck": {
     "name": "Merrill vs Reck",
     "description": "Merrill's translation of the Iliad captures the epic's grandeur and poetic beauty, while Reck's translation focuses on conveying the raw intensity and brutality of the Trojan War."
@@ -607,8 +667,20 @@
     "name": "Merrill vs Jordan",
     "description": "Merrill's translation of the Iliad emphasizes the poetic beauty of Homer's epic while retaining the original Greek meter, while Jordan's translation strives for accuracy and readability, capturing the narrative and essence of the story in a more accessible language."
   },
+  "merrill-vs-rouse": {
+    "name": "Merrill vs Rouse",
+    "description": "Merrill's translation of the Iliad is known for its lyrical and poetic language, capturing the beauty and complexity of Homer's epic, while Rouse's translation focuses on clarity and accessibility, making the story more approachable and easy to understand for modern readers."
+  },
   "reck-vs-jordan": {
     "name": "Reck vs Jordan",
     "description": "Reck's translation of the Iliad provides a more accessible and reader-friendly version with modern language, while Jordan's translation maintains a more traditional and poetic tone that hews closely to the original epic."
+  },
+  "reck-vs-rouse": {
+    "name": "Reck vs Rouse",
+    "description": "Reck's translation of the Iliad offers a more lyrical and poetic rendering of Homer's epic, while Rouse's translation prioritizes clarity and accessibility, aiming to appeal to a wider range of readers."
+  },
+  "jordan-vs-rouse": {
+    "name": "Jordan vs Rouse",
+    "description": "Jordan's translation of the Iliad captures the epic's grandeur and poetic beauty with its rich language and meticulous attention to detail, while Rouse's translation offers a more accessible and reader-friendly version that focuses on clear storytelling and dialogue."
   }
 }
