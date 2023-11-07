@@ -351,11 +351,30 @@
     },
     "description": "The W. H. D. Rouse translation of the Iliad is a faithful and accessible rendition that captures the epic grandeur and emotional power of Homer's timeless tale.",
     "quotes": {
-      "Book 1 - Intro": "An angry man\u2014There is my story: The bitter rancour of Achillês, prince of the house of Peleus, which brought a thousand troubles upon the Achaian host. Many a strong soul it sent down to Hadês, and left the heroes themselves a prey to dogs and carrion birds, while the will of God moved on to fulfilment.\n It began first of all with a quarrel between my lord King Agamemnon of Atreus' line and the Prince Achillês.",
-      "Book 5 - Athena encourages Diomedes": "Athena said:\n\"Diomedês, you are a man after my own heart. Don't be afraid of Arês or any other immortal! You shall see, I will be with you. Drive straight for Arês! Hit him hard; don't bow down to Arês, that mad furious creature, that graven image of wickedness, Mr. Facing-all-ways! Yes- terday he stood up in front of Hera and me and vowed he would fight the Trojans and help the Argives, and now he is on the Trojan side and forgets all about that!\"",
+      "Book 1 - Intro": "An angry man\u2014There is my story: The bitter rancour of Achill\u00eas, prince of the house of Peleus, which brought a thousand troubles upon the Achaian host. Many a strong soul it sent down to Had\u00eas, and left the heroes themselves a prey to dogs and carrion birds, while the will of God moved on to fulfilment.\n It began first of all with a quarrel between my lord King Agamemnon of Atreus' line and the Prince Achill\u00eas.",
+      "Book 5 - Athena encourages Diomedes": "Athena said:\n\"Diomed\u00eas, you are a man after my own heart. Don't be afraid of Ar\u00eas or any other immortal! You shall see, I will be with you. Drive straight for Ar\u00eas! Hit him hard; don't bow down to Ar\u00eas, that mad furious creature, that graven image of wickedness, Mr. Facing-all-ways! Yes- terday he stood up in front of Hera and me and vowed he would fight the Trojans and help the Argives, and now he is on the Trojan side and forgets all about that!\"",
       "Book 6 - Leaves": "The generations of men are like the leaves of the forest. Leaves fall when the breezes blow, in the springtime others grow; as they go and come agen so upon the earth do men.",
       "Book 9 - Glory or long life": "My mother Thetis Silverfoot says, that two different fates are carrying me on the road to death. If I stay here and fight before the city of Troy, there will be no home- coming for me but my fame shall never die; if I go home to my native land, there will be no great fame for me, but I shall live long and not die an early death.",
       "Book 21 - Moaning about death": "Come, my friend, die too; why do you cry like that? Patroclos died too, and he was a much better man than you. Don't you see me too, a fine big man? My father is a brave man, my mother is a goddess: yet I too have death and fate fast upon me. The day shall come, morning or evening or midday, when some one shall take my life too in battle, with a thrust of the spear or an arrow from the bow."
+    }
+  },
+  "graves": {
+    "translator": "Robert Graves",
+    "year": 1959,
+    "tags": [
+      "prose",
+      "verse"
+    ],
+    "links": {
+      "amazon": "https://www.amazon.com/Anger-Achilles-Iliad-Homer/dp/0140455604"
+    },
+    "description": "Robert Graves' translation of the Iliad captures the raw emotion and epic grandeur of Homer's ancient Greek masterpiece.",
+    "quotes": {
+      "Book 1 - Intro": "Sing, Mountain Goddess, sing through me\nThat anger which most ruinously\nInflamed Achilles, Peleus' son,\nAnd which, before the tale was done,\nHad glutted Hell with champions\u2014bold,\nStern spirits by the thousandfold;\nRavens and dogs their corpses ate\nFor thus did Zeus, who watched their fate,\nSee his resolve, first taken when\nProud Agamemnon, King of men,\nAn insult on Achilles cast,\nAchieve accomplishment at last.",
+      "Book 5 - Athena encourages Diomedes": "'Diomedes, true son of Tydeus, joy of my heart,' she cried. 'You need not fear Ares or any other Olympian! I shall always be at your elbow. Up with you, and go for that mad, raving fellow\u2014that universal curse, that renegade who recently gave Hera and myself a sworn promise to help the Greeks, but has now seceded to the Trojans and forgotten it!'",
+      "Book 6 - Leaves": "All forest leaves are born to die;\nAll mortal men the same.\n\nThough Spring's gay branches burgeon out,\nTheir leaves continue not,\nCold autumn scatters them to rout,\nAnd in cold earth they rot.\n\nNext year, another host of leaves\nIs born, grows green and dies;\nOld Mother Earth their fall receives\u2014\nThe fall of man likewise.",
+      "Book 9 - Glory or long life": "My goddess-mother, Thetis the Silver-Footed, prophesied as follows:\n\n\"Twin fates dispute your death, heroic son,\nOf which two fates you must, perforce, choose one:\nEither to stand fast on the Trojan shore\nUntil you die, renowned for evermore,\nOr to retreat and from your Phthian town\nRule long, nor hope for any high renown.\"",
+      "Book 21 - Moaning about death": "Yes, friend, including you. Why bemoan your lot? Patroclus, a far better fighter, is dead, too. And look at me! Did you ever see so strong or so handsome a man? Yet, though my father was a hero, and my mother a goddess, immediate death threatens me. Some day soon\u2014whether it will be morning, noon, or nightfall, and whether by spear or arrow, nobody can foretell\u2014I am doomed to fall in battle."
     }
   }
 }
