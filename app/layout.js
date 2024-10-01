@@ -13,8 +13,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <meta property="og:image" content='https://iliadtranslations.com/opengraph-image.png' />
-      <meta name="twitter:image" content="https://iliadtranslations.com/opengraph-image.png" />
+      <head>
+        <meta property="og:image" content='https://iliadtranslations.com/opengraph-image.png' />
+        <meta name="twitter:image" content="https://iliadtranslations.com/opengraph-image.png" />
+        <script defer data-domain="iliadtranslations.com" src="https://plausible.io/js/script.outbound-links.pageview-props.tagged-events.js"></script>
+      </head>
       <Suspense>
         <PostHogPageview />
       </Suspense>
