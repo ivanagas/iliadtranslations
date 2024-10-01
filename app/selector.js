@@ -39,7 +39,7 @@ export default function Selector(props) {
           <button
             key={index}
             onClick={() => handlePassageSelection(passage)}
-            className={selectedPassage === passage ? 'text-base ml-2 border-2 rounded-md border-red-900 p-1' : 'text-base ml-2 border-2 border-gray-300 hover:bg-gray-100 rounded-md p-1'}
+            className={`text-base ml-2 border-2 rounded-md p-1 plausible-event-name=Compare+Click ${selectedPassage === passage ? 'border-red-900' : 'border-gray-300 hover:bg-gray-100'}`}
           >
             {passage}
           </button>
