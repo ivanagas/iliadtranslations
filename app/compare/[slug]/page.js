@@ -18,7 +18,7 @@ export default async function Comparisons({ params }) {
       <div className="max-w-2xl mx-auto">
         <h1 className='text-4xl my-5'>{t1.translator} vs {t2.translator} Iliad Translation Comparison</h1>
         <h2 className='text-xl mb-3'>Years: {t1.year} and {t2.year}</h2>
-        <p>{comparison.description}</p>
+        <p className='whitespace-pre-line'>{comparison.description}</p>
         <h2 className='text-3xl my-3'>Passage comparison</h2>
       </div>
       <Selector data={translators}></Selector>
