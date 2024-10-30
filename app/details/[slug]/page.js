@@ -1,16 +1,14 @@
 import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
+import ReadLikeButtons from '@/app/components/ReadLikeButtons'
 
 export default async function Details({ params }) {
   const { slug } = params
-  
   const data = await getData(slug)
 
   const comparisons = await getComparisons(slug)
   const comparisonList = Object.keys(comparisons);
-
-  const tagsString = data.tags.join(", ");
 
   const removeVsName = (inputString, variableName) => {
 
@@ -43,19 +41,26 @@ export default async function Details({ params }) {
         ))}</h2>
       </div>
       <p className='my-3'>{data.description}</p>
-      <h2 className='text-xl'>Links:</h2>
-      <ul>
-        {Object.keys(data.links).map((link) => (
-          <li key={link}>
-            <Link 
-              href={data.links[link]}
-              className='underline hover:text-red-900'
-            >
-              {link}
-            </Link>
-          </li>
-        ))}
-      </ul>
+      <div className='grid grid-cols-2'>
+        <div>
+          <h2 className='text-xl'>Links:</h2>
+          <ul>
+          {Object.keys(data.links).map((link) => (
+            <li key={link}>
+              <Link 
+                href={data.links[link]}
+                className='underline hover:text-red-900'
+              >
+                {link}
+              </Link>
+            </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <ReadLikeButtons slug={slug} />
+        </div>
+      </div>
       <h2 className='text-3xl my-3'>Passages:</h2>
       <Selector data={data}></Selector>
       <h2 className='text-3xl my-3'>Comparisons:</h2>
