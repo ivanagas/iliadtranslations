@@ -3,7 +3,8 @@ import Link from 'next/link'
 import Selector from './selector'
 import ReadLikeButtons from '@/app/components/ReadLikeButtons'
 
-export default async function Details({ params }) {
+export default async function Details(props) {
+  const params = await props.params;
   const { slug } = params
   const data = await getData(slug)
 
@@ -123,7 +124,8 @@ export async function generateStaticParams() {
   return paths
 }
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const data = await getData(params.slug)
 
   return {

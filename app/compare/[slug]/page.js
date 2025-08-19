@@ -2,9 +2,10 @@ import fs from 'fs'
 import Link from 'next/link'
 import Selector from './selector'
 
-export default async function Comparisons({ params }) {
+export default async function Comparisons(props) {
+  const params = await props.params;
   const { slug } = params
-  
+
   const data = await getData(slug)
 
   const translators = data['translators']
@@ -83,7 +84,8 @@ export async function generateStaticParams() {
 }
 
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const data = await getData(params.slug);
   const translators = data['translators']
 
