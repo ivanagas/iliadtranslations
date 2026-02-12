@@ -52,9 +52,9 @@
     "description": "Stanley Lombardo's translation of the Iliad is known for its straightforward, contemporary language that makes the epic accessible to modern readers while retaining the power and intensity of the original text. Unlike more formal translations, Lombardo uses a direct and colloquial style that captures the raw emotion and vivid action of the story. For example, his treatment of Achilles' rage in Book 1 or Athena's encouragement of Diomedes in Book 5 is both approachable and impactful, drawing readers into the drama of each scene. Comparatively, Lombardo's version lacks the archaic diction or elevated language found in translations like those by Alexander Pope or Richmond Lattimore, instead offering a narration that feels immediate and relatable. This approach has made Lombardo's translation particularly popular for those seeking to experience the Iliad in a manner that feels fresh and engaging without losing the epic's timeless themes.",
     "quotes": {
       "Book 1 - Intro": "Sing, Goddess, Achilles' rage,\nBlack and murderous, that cost the Greeks\nIncalculable pain, pitched countless souls\nOf heroes into Hades' dark,\nAnd left their bodies to rot as feasts\nFor dogs and birds, as Zeus' will was done.",
-      "Book 5 - Athena encourages Diomedes": "And Athena, whose eyes wereas grey as owls:\n\n\"Diomedes, son of Tydeus, I do love you.\nYou don't have to fear Ares or any other\nOf the immortals. Look who is here beside you.\nDrive your horses directly at Ares\nAnd when you're in range, strike.\nDOn't be in awe of Ares. He's nothing but\n A shifty lout. He promised Hera and me\nHe would fight against Troy and help the Greeks.\nNow he's turned Trojan and abandoned us.\"",
+      "Book 5 - Athena encourages Diomedes": "And Athena, whose eyes were as grey as owls:\n\n\"Diomedes, son of Tydeus, I do love you.\nYou don't have to fear Ares or any other\nOf the immortals. Look who is here beside you.\nDrive your horses directly at Ares\nAnd when you're in range, strike.\nDon't be in awe of Ares. He's nothing but\n A shifty lout. He promised Hera and me\nHe would fight against Troy and help the Greeks.\nNow he's turned Trojan and abandoned us.\"",
       "Book 6 - Leaves": "Human generations are like leaves in their seasons.\nThe wind blows them to the ground, but the tree\nSprouts new ones when spring comes again.\nMen too. Their generations come and go.",
-      "Book 9 - Glory or long life": "If I stay here and fight, I'll never return home,\nBut my glory will by undying forever.\nIf I return home to my dear father land\nMy glory is lost but my life will be long,\nAnd death that ends all will not catch me soon.",
+      "Book 9 - Glory or long life": "If I stay here and fight, I'll never return home,\nBut my glory will be undying forever.\nIf I return home to my dear father land\nMy glory is lost but my life will be long,\nAnd death that ends all will not catch me soon.",
       "Book 21 - Moaning about death": "You die too, friend. Don't take it hard.\nPatroclus died, and he was far better than you.\nTake a look at me. Do you see how huge I am,\nHow beautiful? I have a noble father,\nMy mother was a goddess, but I too\nAm in death's shadow."
     }
   },
@@ -101,7 +101,7 @@
   },
   "pope": {
     "translator": "Alexander Pope",
-    "year": 1720,
+    "year": 1715,
     "tags": [
       "free",
       "verse"
@@ -177,7 +177,7 @@
   },
   "alexander": {
     "translator": "Caroline Alexander",
-    "year": 2016,
+    "year": 2015,
     "tags": [
       "verse"
     ],
@@ -197,7 +197,8 @@
     "translator": "A. T. Murray",
     "year": 1924,
     "tags": [
-      "prose"
+      "prose",
+      "free"
     ],
     "links": {
       "amazon": "https://www.amazon.com/Iliad-Homer/dp/1521566798",
@@ -232,7 +233,7 @@
   },
   "verity": {
     "translator": "Anthony Verity",
-    "year": 2012,
+    "year": 2011,
     "tags": [
       "verse"
     ],
@@ -250,7 +251,7 @@
   },
   "johnston": {
     "translator": "Ian Johnston",
-    "year": 2010,
+    "year": 2002,
     "tags": [
       "free",
       "verse"
@@ -288,7 +289,7 @@
   },
   "merrill": {
     "translator": "Rodney Merrill",
-    "year": 2009,
+    "year": 2007,
     "tags": [
       "verse"
     ],
@@ -342,7 +343,7 @@
   },
   "rouse": {
     "translator": "W. H. D. Rouse",
-    "year": 2007,
+    "year": 1938,
     "tags": [
       "prose"
     ],
