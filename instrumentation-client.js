@@ -4,4 +4,8 @@ posthog.init('phc_9jsDPJWGw09UKF4jBNCthimBdsAMFws7RXddqXaPEVo', {
   api_host: '/swag',
   ui_host: 'https://us.posthog.com',
   defaults: '2025-11-30',
+  disable_session_recording: true,
+  autocapture: false,
+  capture_pageleave: false,
+  advanced_disable_flags: true,
 });
