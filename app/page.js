@@ -50,6 +50,38 @@ export default async function Home() {
             Verse
           </Link>
         </p>
+        <div className='grid grid-cols-2 gap-4'>
+          <div>
+            <h2 className={`${neohellenic.className} text-5xl my-5`}>Most Read</h2>
+            <ol className='list-decimal list-inside'>
+              {['fagles', 'wilson', 'lombardo', 'lattimore', 'rieu'].map((translator) => (
+                <li key={translator}>
+                  <Link
+                    href={`/details/${translator}`}
+                    className='underline hover:text-red-900'
+                  >
+                    {translatorData[translator].translator}
+                  </Link>
+                </li>
+              ))}
+            </ol>
+          </div>
+          <div>
+            <h2 className={`${neohellenic.className} text-5xl my-5`}>Most Liked</h2>
+            <ol className='list-decimal list-inside'>
+              {['fagles', 'wilson', 'lattimore', 'rieu', 'lombardo'].map((translator) => (
+                <li key={translator}>
+                  <Link
+                    href={`/details/${translator}`}
+                    className='underline hover:text-red-900'
+                  >
+                    {translatorData[translator].translator}
+                  </Link>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </div>
         <h2 className={`${neohellenic.className} text-5xl my-5`}>Comparisons</h2>
         <ul className='grid grid-cols-2'>
           {comparisonsList.map((comparison) => (
