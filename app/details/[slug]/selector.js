@@ -19,18 +19,18 @@ export default function Selector(props) {
 
   return (
     <div>
-      <div className='mx-auto flex'>
+      <div className='mx-auto flex flex-wrap gap-2'>
         {passages.map((passage, index) => (
           <button
             key={index}
             onClick={() => handlePassageSelection(passage)}
-            className={selectedPassage === passage ? 'text-base ml-2 border-2 rounded-md border-red-900 p-1' : 'text-base ml-2 border-2 border-gray-300 hover:bg-gray-100 rounded-md p-1'}
+            className={selectedPassage === passage ? 'text-base border-2 rounded-md border-red-900 px-3 py-2' : 'text-base border-2 border-gray-300 hover:bg-gray-100 rounded-md px-3 py-2'}
           >
             {passage}
           </button>
         ))}
       </div>
-      <p className='my-2'>{formatPassage(translator.quotes[selectedPassage])}</p>
+      <p className='my-2 leading-relaxed'>{formatPassage(translator.quotes[selectedPassage])}</p>
     </div>
   )
 }

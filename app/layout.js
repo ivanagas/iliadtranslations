@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
         <meta name="twitter:image" content="https://iliadtranslations.com/opengraph-image.png" />
       </head>
       <PHProvider>
-        <body className={`${openSans.className} text-lg py-5`}>{children}</body>
+        <body className={`${openSans.className} text-lg py-5 px-4`}>{children}</body>
       </PHProvider>
     </html>
   )
