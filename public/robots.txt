@@ -1,0 +1,36 @@
+# AI training / scraping crawlers — blocked to reduce edge-request volume
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: Applebot-Extended
+User-agent: Meta-ExternalAgent
+User-agent: FacebookBot
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: Omgilibot
+User-agent: ImagesiftBot
+User-agent: YouBot
+User-agent: PetalBot
+Disallow: /
+
+# Aggressive SEO / marketing crawlers — blocked
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: MJ12bot
+User-agent: DotBot
+User-agent: DataForSeoBot
+User-agent: BLEXBot
+Disallow: /
+
+# Everyone else (Googlebot, Bingbot, DuckDuckBot, etc.) — allowed
+User-agent: *
+Allow: /
