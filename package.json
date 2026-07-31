@@ -18,7 +18,8 @@
   "overrides": {
     "flatted": ">=3.3.4",
     "minimatch": ">=3.1.6",
-    "postcss": "$postcss"
+    "postcss": "$postcss",
+    "sharp": ">=0.35.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.15",
