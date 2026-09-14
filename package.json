@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@posthog/react": "^1.10.5",
+    "@posthog/react": "^1.10.6",
     "next": "^16.3.4",
-    "posthog-js": "^1.427.2",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "posthog-js": "^1.429.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   },
   "overrides": {
     "flatted": ">=3.3.4",
@@ -22,7 +22,7 @@
     "sharp": ">=0.35.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.5.5",
+    "autoprefixer": "^10.5.6",
     "eslint": "^10.10.0",
     "eslint-config-next": "^16.3.4",
     "postcss": "^8.5.28",
