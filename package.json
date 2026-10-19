@@ -11,7 +11,7 @@
   "dependencies": {
     "@posthog/react": "^1.11.3",
     "next": "^16.4.0",
-    "posthog-js": "^1.438.2",
+    "posthog-js": "^1.438.9",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
@@ -26,7 +26,7 @@
     "autoprefixer": "^10.6.1",
     "eslint": "^10.12.0",
     "eslint-config-next": "^16.4.0",
-    "postcss": "^8.5.29",
+    "postcss": "^8.5.30",
     "tailwindcss": "^4.3.3"
   }
 }
